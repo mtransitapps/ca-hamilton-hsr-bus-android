@@ -2,7 +2,7 @@ Title: Hamilton HSR Bus - MonTransit
 ----------
 Short description:
 Hamilton HSR buses for MonTransit.
-Schedule.
+Schedule…
 ----------
 What's new in this version?:
 Schedule from March 29, 2015 to June 27, 2015.
@@ -12,7 +12,7 @@ This application adds Hamilton HSR buses information to MonTransit.
 
 This app contains the buses schedule (available offline).
 
-HSR serves Hamilton in Ontario, Canada.
+HSR buses serve Hamilton in Ontario, Canada.
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
