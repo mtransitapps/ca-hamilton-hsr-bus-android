@@ -442,14 +442,14 @@
 1475,'2400','Fennell / West 2nd',43.23813,-79.880049
 1477,'2011','Fennell / West 5th',43.239213,-79.884247
 1478,'1457','Ferrie / Wellington',43.266313,-79.853262
-1480,'2627','Fiddler''S Green / Enmore',43.207302,-79.983938
-1481,'2623','Fiddler''S Green Opposite Enmore',43.206963,-79.984041
-1482,'2626','Fiddler''S Green / Garden',43.203244,-79.98268
-1483,'2616','Fiddler''S Green / Gilbert',43.214103,-79.986276
-1484,'2628','Fiddler''S Green Opposite Gilbert',43.214166,-79.986023
-1485,'2616','Fiddler''S Green / Oakley',43.211828,-79.985538
-1486,'2628','Fiddler''S Green Opposite Oakley',43.211805,-79.985367
-1488,'2628','Fiddler''S Green / Wilson',43.217674,-79.987136
+1480,'2627','Fiddler''s Green / Enmore',43.207302,-79.983938
+1481,'2623','Fiddler''s Green Opposite Enmore',43.206963,-79.984041
+1482,'2626','Fiddler''s Green / Garden',43.203244,-79.98268
+1483,'2616','Fiddler''s Green / Gilbert',43.214103,-79.986276
+1484,'2628','Fiddler''s Green Opposite Gilbert',43.214166,-79.986023
+1485,'2616','Fiddler''s Green / Oakley',43.211828,-79.985538
+1486,'2628','Fiddler''s Green Opposite Oakley',43.211805,-79.985367
+1488,'2628','Fiddler''s Green / Wilson',43.217674,-79.987136
 1489,'2466','At 162 1st',43.186301,-79.782057
 1490,'2426','1st Opposite Branthaven',43.191841,-79.779752
 1491,'2426','1st Opposite Electra',43.189022,-79.780894
@@ -1995,9 +1995,9 @@
 3155,'2639','Wilson / Church',43.225894,-79.976755
 3156,'2612','Wilson / Dalley',43.222489,-79.980333
 3157,'2618','Wilson / Dunham',43.215153,-79.991494
-3158,'2615','Wilson / Fiddler''S Green East',43.218476,-79.986522
-3159,'2635','Wilson / Fiddler''S Green',43.217974,-79.986809
-3160,'2617','Wilson / Fiddler''S Green West',43.217577,-79.987867
+3158,'2615','Wilson / Fiddler''s Green East',43.218476,-79.986522
+3159,'2635','Wilson / Fiddler''s Green',43.217974,-79.986809
+3160,'2617','Wilson / Fiddler''s Green West',43.217577,-79.987867
 3161,'2617','Wilson / Ancaster Town Plaza',43.216723,-79.989065
 3162,'2634','Wilson / County Fair Plaza',43.216284,-79.989485
 3163,'2637','Wilson / Halson',43.223652,-79.978285
@@ -2346,8 +2346,8 @@
 355752,'2287','At 1452 Upper James',43.208153,-79.890634
 355753,'2386','Centennial / Goderich',43.242065,-79.7584
 355754,'5618','Wal Mart',43.242492,-79.75585
-355755,'5623','At 680 Van Wagner''S Beach',43.250557,-79.759904
-355756,'5622','Opposite 680 Van Wagner''S Beach',43.25087,-79.760225
+355755,'5623','At 680 Van Wagner''s Beach',43.250557,-79.759904
+355756,'5622','Opposite 680 Van Wagner''s Beach',43.25087,-79.760225
 355757,'5624','Wal Mart',43.242573,-79.756047
 355760,'2962','Dundurn / Charlton',43.254567,-79.891169
 355762,'1239','John / King William',43.25655,-79.866166
@@ -2372,7 +2372,7 @@
 355803,'9229','James / Cannon',43.260464,-79.867501
 355804,'9230','James Opposite Rebecca',43.25819,-79.868505
 355805,'9233','John / Young',43.250596,-79.868583
-355806,'9234','St. Joseph''S / James',43.248188,-79.872062
+355806,'9234','St. Joseph''s / James',43.248188,-79.872062
 355808,'9235','West 5th / Gateview',43.243622,-79.880628
 355809,'9236','West 5th / Brantdale',43.240748,-79.881829
 355810,'9237','West 5th / Fennell',43.239432,-79.882386
