@@ -288,9 +288,9 @@
 1309,'2301','Chedmac / Holbrook Bldg',43.237302,-79.917938
 1311,'2319','Chedmac / Rice',43.236738,-79.916156
 1312,'2318','Chedmac Opposite Southridge',43.237883,-79.920401
-1313,'2924','Chesley / Chester',43.216471,-79.896141
+1313,'2926','Chesley / Chester',43.216471,-79.896141
 1315,'2908','Chesley / Stone Church',43.213501,-79.897646
-1316,'2908','Chester / Annabelle',43.216136,-79.893884
+1316,'2908','Chester / Annabelle',43.216141,-79.893923
 1317,'2908','Chester / Chesley',43.216639,-79.895999
 1318,'2907','Chester / West 5th',43.215845,-79.892624
 1319,'2924','Chester / West 5th',43.215705,-79.892631
@@ -751,7 +751,7 @@
 1819,'2677','Kenilworth / Dofasco',43.255209,-79.803512
 1820,'2776','Kenilworth / Dunsmure',43.242479,-79.809152
 1821,'2782','Kenilworth / Dunsmure',43.241903,-79.80921
-1822,'2773','Kenilworth / Mcanulty',43.253042,-79.804634
+1822,'2773','Kenilworth / Mcanulty',43.25298,-79.804617
 1823,'2677','Opposite 455 Kenilworth',43.253868,-79.804076
 1824,'2790','Kenilworth / Merchison',43.251098,-79.805248
 1825,'2783','Kenilworth / Roxborough',43.243651,-79.808464
@@ -1011,7 +1011,7 @@
 2110,'2703','Main / Walnut',43.25387,-79.863895
 2111,'2732','Main / Weir',43.238851,-79.803513
 2112,'2703','Main / Wellington',43.252762,-79.859969
-2113,'2706','Main / Wentworth',43.250062,-79.849376
+2113,'2706','Main / Wentworth',43.250079,-79.8494
 2114,'2735','Main / Wexford',43.241077,-79.812729
 2115,'2605','Main Opposite White Chapel Cemetery',43.250157,-79.941147
 2116,'2644','Main / White Chapel Cemetery',43.250327,-79.940837
@@ -1251,7 +1251,7 @@
 2369,'1046','Ottawa / Maple',43.241217,-79.820165
 2370,'1037','Ottawa / Maple',43.241045,-79.820434
 2371,'1192','Paradise / Main',43.260755,-79.899657
-2372,'2126','Paramount / Upper Mt Albion',43.191885,-79.810061
+2372,'2126','Paramount / Upper Mt Albion',43.191858,-79.810061
 2373,'2906','Paramount / Upper Mt Albion',43.191957,-79.810469
 2374,'2459','Paramount / Amberwood',43.202658,-79.799408
 2375,'2483','Paramount Opposite Amberwood',43.202789,-79.799564
@@ -1273,7 +1273,7 @@
 2393,'2462','Paramount / Pembroke',43.193622,-79.798289
 2394,'2484','Paramount Opposite Pembroke',43.19363,-79.797593
 2395,'2906','Stone Church / Heritage Greene',43.19202,-79.811668
-2396,'2126','Stone Church Opposite Heritage Greene',43.19194,-79.811767
+2396,'2126','Stone Church Opposite Heritage Greene',43.191931,-79.811755
 2397,'2173','Paramount / Vly Pk Loop',43.194754,-79.796361
 2400,'2949','Pk / Charlton',43.250746,-79.875194
 2401,'2435','At 423 Parkdale',43.249057,-79.786803
@@ -1827,7 +1827,7 @@
 2974,'2214','Upper Sherman Opposite Princip',43.209285,-79.857348
 2975,'2214','Upper Sherman / Rowntree',43.208098,-79.857894
 2976,'2214','Upper Sherman / Ruby',43.206354,-79.858664
-2977,'2216','Upper Sherman / Rymal',43.195411,-79.86363
+2977,'2216','Upper Sherman / Rymal',43.195467,-79.863554
 2978,'2211','Upper Sherman / Southampton',43.216781,-79.854085
 2979,'2217','Upper Sherman / Stone Church',43.20347,-79.859755
 2980,'2215','Upper Sherman / Stone Church',43.203899,-79.859761
@@ -2019,7 +2019,7 @@
 3184,'2459','Winterberry / Old Mud',43.198276,-79.806428
 3185,'2456','Winterberry / Mud',43.195688,-79.80642
 3186,'2467','Winterberry / Mud',43.195688,-79.806593
-3187,'2456','Winterberry / Paramount',43.192849,-79.806139
+3187,'2456','Winterberry / Paramount',43.192822,-79.806176
 3188,'2428','Winterberry / Paramount',43.192544,-79.806334
 3189,'1326','At Woodland Cemetery',43.286922,-79.879015
 3190,'2767','Woodward Opposite Museum Of Steam',43.255739,-79.773329
@@ -2139,7 +2139,7 @@
 355350,'1823','Dundas / Hwy 6',43.312306,-79.917705
 355351,'1830','Parkside / Hwy 6',43.320079,-79.927568
 355352,'1828','Parkside / Hollybush',43.326788,-79.918364
-355353,'1826','Parkside / Duncan',43.328768,-79.915626
+355353,'1826','Parkside / Duncan',43.328777,-79.915651
 355354,'1824','Parkside / Braeheid',43.331509,-79.911934
 355355,'1822','Parkside / Keewaydin',43.333229,-79.909567
 355356,'1820','Parkside / Hamilton',43.337134,-79.904251
