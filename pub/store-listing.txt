@@ -5,7 +5,7 @@ Hamilton HSR buses for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from June 28, 2015 to September 5, 2015.
+Schedule from September 6, 2015 to December 26, 2015.
 ----------
 Full description:
 This application adds Hamilton HSR buses information to MonTransit.
