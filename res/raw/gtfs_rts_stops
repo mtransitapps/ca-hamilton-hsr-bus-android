@@ -174,7 +174,6 @@
 1182,'1284','Beland @ Dunsmure',43.237095,-79.787566
 1184,'2954','Bold @ James',43.252626,-79.871172
 1185,'1342','Bond @ King',43.271483,-79.970875
-1188,'1327','Botanical @ Spg Gdns',43.288614,-79.875844
 1189,'1289','Britannia Opposite Cope',43.244975,-79.802728
 1190,'1279','Britannia @ Fairfield',43.244314,-79.800409
 1191,'1289','Britannia @ Fairfield',43.244373,-79.800112
@@ -638,8 +637,6 @@
 1691,'2523','@ 490 Hwy 8',43.216392,-79.716352
 1692,'2558','Hwy 8 @ Warwick',43.222128,-79.738188
 1693,'2555','Hwy 8 @ Worsley',43.218788,-79.724903
-1694,'1330','Holy Sepulchre Cemetery East',43.29284,-79.868251
-1695,'1330','Holy Sepulchre Cemetery West',43.291541,-79.869663
 1704,'1175','Hunter @ John',43.252906,-79.867294
 1705,'1175','Hunter @ Spg',43.251315,-79.861377
 1706,'1175','Hunter @ Walnut',43.252266,-79.864817
@@ -902,8 +899,8 @@
 1989,'2693','Lakeshore Opposite Halton Garage',43.311692,-79.801026
 1990,'2699','Lakeshore @ Joseph Brant Hosp',43.317227,-79.801377
 1991,'2693','Lakeshore Opposite Joseph Brant Hosp',43.317227,-79.801141
-1992,'2699','Lakeshore @ Mto Patrol Yard',43.313054,-79.801371
-1993,'2693','Lakeshore Opposite Mto Patrol Yard',43.314146,-79.801121
+1992,'2699','Lakeshore @ Mto Patrol Yard',43.315275,-79.801256
+1993,'2693','Lakeshore Opposite Mto Patrol Yard',43.314997,-79.801194
 1994,'2698','Lakeshore @ Nelson',43.3208,-79.800479
 1995,'2695','Lakeshore Opposite Nelson',43.320773,-79.800219
 1996,'2694','Lakeshore @ North Shr',43.319153,-79.801399
@@ -1305,12 +1302,6 @@
 2430,'1371','Pirie @ Davidson',43.258065,-79.986693
 2431,'1370','Pirie @ Governors',43.256603,-79.9895
 2432,'1371','Pirie Opposite Newcombe',43.257751,-79.988676
-2433,'1329','@ 549 Plains',43.292903,-79.869997
-2434,'1328','Plains @ Botanical',43.291078,-79.879335
-2435,'1333','Plains Opposite Botanical',43.29132,-79.879447
-2436,'1325','Plains @ Spg Gdns',43.292987,-79.886072
-2437,'1333','Plains Opposite Spg Gdns',43.29313,-79.885997
-2438,'1333','Plains @ York',43.293659,-79.889168
 2439,'1319','Pleasant Opposite Autumn Leaf',43.253776,-79.962511
 2440,'1320','Pleasant @ Edenbridge',43.253496,-79.965914
 2441,'1320','Pleasant @ Grn Mdw',43.252159,-79.967817
@@ -1507,8 +1498,6 @@
 2644,'1315','South Opposite Lynden',43.260148,-79.950077
 2645,'1313','South @ Osler',43.2609,-79.944939
 2646,'1315','South @ Osler',43.261001,-79.94499
-2647,'1332','Spg Gdns @ Botanical',43.289062,-79.875212
-2648,'1324','Spg Gdns Opposite Woodland',43.288015,-79.87733
 2649,'2911','St. Josephs @ James',43.248182,-79.872055
 2650,'2016','St. Josephs @ Mountwood',43.247918,-79.870872
 2651,'2017','St. Josephs @ Mountwood',43.247918,-79.870872
@@ -2018,7 +2007,6 @@
 3186,'2467','Winterberry @ Mud',43.195688,-79.806593
 3187,'2456','Winterberry @ Paramount',43.192822,-79.806176
 3188,'2428','Winterberry @ Paramount',43.192544,-79.806334
-3189,'1326','@ Woodland Cemetery',43.286922,-79.879015
 3190,'2767','Woodward Opposite Museum Of Steam',43.255739,-79.773329
 3191,'2683','Woodward @ Museum Of Steam',43.255834,-79.773035
 3192,'1028','Woodward @ Barton',43.243443,-79.778738
@@ -2029,18 +2017,8 @@
 3198,'1028','Woodward @ Rennie',43.247297,-79.777052
 3199,'1042','Woodward @ Rennie',43.247316,-79.776797
 3200,'1042','Woodward @ Vansitmart',43.244068,-79.778186
-3202,'1325','York @ Plains',43.293324,-79.88933
 3203,'2932','York @ Bay',43.260027,-79.873106
 3204,'2978','York @ Locke',43.265474,-79.881375
-3205,'1264','York Opposite Hamilton Cemetery',43.269363,-79.885748
-3206,'1334','York @ Old Guelph',43.284911,-79.892655
-3207,'1323','York Opposite Old Guelph',43.285129,-79.892391
-3208,'1336','York @ Hamilton Cemetery North',43.276653,-79.889777
-3209,'1323','York Opposite Hamilton Cemetery',43.277039,-79.889764
-3210,'1264','York Opposite Hamilton Cemetery',43.271515,-79.886527
-3211,'1336','York @ Hamilton Cemetery',43.271155,-79.886712
-3212,'1336','York @ Hamilton Cemetery',43.274878,-79.888529
-3213,'1323','York Opposite Hamilton Cemetery',43.274663,-79.888115
 3214,'2932','York @ Hess',43.261457,-79.875331
 3215,'2979','York @ Inchbury',43.266029,-79.882242
 3217,'2983','York @ Locke',43.265439,-79.881704
@@ -2049,10 +2027,7 @@
 3220,'2984','York @ Queen',43.262791,-79.877438
 3221,'2978','Cannon @ Queen',43.262971,-79.8771
 3222,'2978','York @ Ray',43.26407,-79.878911
-3223,'1334','York Opposite Rock Gdn',43.2885,-79.89137
-3224,'1325','York @ Rock Gdn',43.289562,-79.890458
 3225,'2979','York Opposite Strathcona',43.266637,-79.882996
-3226,'1336','York @ Woodbine',43.268392,-79.885682
 3227,'1350','York Opposite Cairns',43.270355,-79.94718
 3228,'1347','York @ Cameron',43.27203,-79.944992
 3229,'1349','York @ Cameron',43.271594,-79.94533
