@@ -26,7 +26,7 @@
 1025,'2632','Amberly @ Wilson',43.209678,-79.999384
 1026,'2131','Anchor Opposite Bigwin',43.193149,-79.823736
 1027,'2624','Anson @ Garner',43.202791,-79.978652
-1028,'2091','Arkledun Opposite Kingsway',43.247211,-79.868622
+1028,'2091','Arkledun Opposite Kingsway',43.247211,-79.868623
 1029,'2090','Arkledun Opposite Kingsway',43.247211,-79.868623
 1030,'2028','Arkledun @ Kingsway',43.247014,-79.868585
 1031,'2020','Arkledun @ Kingsway',43.247014,-79.868585
@@ -917,8 +917,8 @@
 2008,'1166','Lawrence @ Rothsay',43.236878,-79.827311
 2009,'2125','Lime Rdg Terminal Platform 3',43.218051,-79.863355
 2010,'1068','Lime Rdg Terminal Platform 5',43.217424,-79.863615
-2011,'1069','Lime Rdg Terminal Platform 4',43.217756,-79.863516
-2012,'2239','Lime Rdg Terminal Platform 1',43.21806,-79.863169
+2011,'1069','Lime Rdg Terminal Platform 4',43.217738,-79.863454
+2012,'2239','Lime Rdg Terminal Platform 1',43.218096,-79.863219
 2013,'1434','Lime Rdg Terminal Platform 2',43.217747,-79.863306
 2014,'2407','Opposite 1350 Limeridge',43.204823,-79.823845
 2015,'2416','@ 1350 Limeridge',43.204689,-79.823769
@@ -1297,10 +1297,10 @@
 2425,'2500','Parkdale @ Central',43.232676,-79.793467
 2426,'2443','Parkdale @ King',43.229919,-79.794861
 2427,'2442','Parkdale @ Lucerne',43.231204,-79.794329
-2428,'2499','Parkdale @ Lucerne',43.230813,-79.794273
+2428,'2499','Parkdale @ Lucerne',43.230871,-79.794293
 2429,'2501','Parkdale @ Queenston',43.234309,-79.792804
 2430,'1371','Pirie @ Davidson',43.258065,-79.986693
-2431,'1370','Pirie @ Governors',43.256603,-79.9895
+2431,'1370','Pirie @ Governors',43.256663,-79.989547
 2432,'1371','Pirie Opposite Newcombe',43.257751,-79.988676
 2433,'1329','@ 549 Plains',43.292903,-79.869997
 2434,'1328','Plains @ Botanical',43.291078,-79.879335
@@ -1733,7 +1733,7 @@
 2885,'2115','@ 1190 Upper Ottawa',43.20506,-79.838141
 2886,'2115','Upper Ottawa @ Queensbury',43.201916,-79.839494
 2887,'2155','Upper Ottawa Opposite Queensbury',43.201809,-79.839325
-2888,'2808','Upper Ottawa @ Queensdale',43.230051,-79.827642
+2888,'2808','Upper Ottawa @ Queensdale',43.22999,-79.827627
 2889,'2168','Upper Ottawa Opposite Queensdale',43.229734,-79.82759
 2890,'2115','Upper Ottawa @ Redbury',43.203882,-79.838649
 2891,'2155','Upper Ottawa Opposite Redbury',43.203534,-79.838615
@@ -1926,7 +1926,7 @@
 3091,'2902','West 5th Opposite Wembley',43.235364,-79.884276
 3092,'2907','West 5th Opposite Sonata',43.218656,-79.891227
 3093,'2925','West 5th @ Sonata',43.218674,-79.890969
-3094,'2896','West 5th @ Brantdale',43.241617,-79.881618
+3094,'2896','West 5th @ Brantdale',43.241625,-79.881581
 3095,'2959','West 5th @ Fennell',43.238097,-79.88308
 3097,'2910','West 5th @ Fennell',43.239432,-79.882386
 3098,'2910','West 5th @ Brantdale',43.241464,-79.881507
@@ -2198,7 +2198,7 @@
 355449,'1088','Main @ John',43.25476,-79.867232
 355450,'8900','James @ Main',43.255835,-79.869533
 355453,'2968','Hunter @ Bay',43.254744,-79.874992
-355454,'2922','Bay Opposite George',43.257224,-79.874013
+355454,'2922','Bay Opposite George',43.257224,-79.874001
 355457,'2760','Beach Opposite Dieppe Memorial',43.291883,-79.791904
 355458,'1698','James @ Guise',43.273618,-79.8616
 355459,'1699','James @ Guise',43.273421,-79.861848
@@ -2222,7 +2222,7 @@
 355479,'4484','Garner @ Fiddlers Grn',43.201764,-79.98238
 355490,'9210','Upper James @ Monarch',43.235929,-79.878613
 355491,'9215','Upper James Opposite Monarch',43.236413,-79.878193
-355492,'9204','James @ Charlton',43.249952,-79.872123
+355492,'9204','James @ Charlton',43.249952,-79.872117
 355496,'9212','Upper James @ Mohawk',43.228542,-79.881883
 355497,'9214','Upper James @ Aldridge',43.22145,-79.884817
 355498,'9216','Upper James @ Stone Church',43.211215,-79.889273
