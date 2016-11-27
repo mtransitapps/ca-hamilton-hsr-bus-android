@@ -171,7 +171,6 @@
 1182,'1284','Beland @ Dunsmure',43.237095,-79.787566
 1184,'2954','Bold @ James',43.252626,-79.871172
 1185,'1342','Bond @ King',43.271483,-79.970875
-1188,'1327','Botanical @ Spg Gdns',43.288614,-79.875844
 1189,'1289','Britannia Opposite Cope',43.244975,-79.802728
 1190,'1279','Britannia @ Fairfield',43.244314,-79.800409
 1191,'1289','Britannia @ Fairfield',43.244373,-79.800112
@@ -632,8 +631,6 @@
 1691,'2523','@ 490 Hwy 8',43.216392,-79.716352
 1692,'2558','Hwy 8 @ Warwick',43.222128,-79.738188
 1693,'2555','Hwy 8 @ Worsley',43.218788,-79.724903
-1694,'1330','Holy Sepulchre Cemetery East',43.29284,-79.868251
-1695,'1330','Holy Sepulchre Cemetery West',43.291541,-79.869663
 1704,'1175','Hunter @ John',43.252906,-79.867294
 1705,'1175','Hunter @ Spg',43.251315,-79.861377
 1706,'1175','Hunter @ Walnut',43.252266,-79.864817
@@ -665,7 +662,6 @@
 1735,'1019','James @ Burlington',43.272587,-79.862035
 1736,'1067','James @ Cannon',43.260464,-79.867501
 1737,'1208','James @ Colbourne',43.263582,-79.866124
-1738,'9902','James Opposite King William',43.257285,-79.868918
 1739,'2947','James Opposite King William',43.257737,-79.868718
 1740,'1016','James Opposite West Harbour Go Sta',43.265595,-79.865133
 1741,'1064','James @ West Harbour Go Sta',43.265685,-79.865183
@@ -831,7 +827,7 @@
 1921,'1039','King @ Keswick',43.233257,-79.814253
 1922,'2740','King @ Lottridge',43.250537,-79.833178
 1923,'1143','King @ Mayhurst',43.229758,-79.797534
-1924,'1038','King @ Montclair',43.237683,-79.820038
+1924,'1038','King @ Montclair',43.23757,-79.819872
 1925,'1145','King @ Pkwy Off Ramp',43.225403,-79.788512
 1926,'1155','King Opposite Mt Albion',43.225973,-79.789246
 1927,'1153','King @ Nash',43.221022,-79.77715
@@ -889,9 +885,9 @@
 1986,'2698','Lakeshore @ Burlington',43.322572,-79.798507
 1987,'2695','Lakeshore Opposite Burlington',43.322456,-79.798482
 1988,'2757','Lakeshore @ Halton Region Garage',43.311809,-79.801286
-1989,'2693','Lakeshore Opposite Halton Garage',43.311692,-79.801026
-1990,'2699','Lakeshore @ Joseph Brant Hosp',43.317227,-79.801377
-1991,'2693','Lakeshore Opposite Joseph Brant Hosp',43.317227,-79.801141
+1989,'2693','Lakeshore Opposite Halton Garage',43.311155,-79.80094
+1990,'2699','Lakeshore @ Joseph Brant Hosp',43.316224,-79.801316
+1991,'2693','Lakeshore Opposite Joseph Brant Hosp',43.315785,-79.801106
 1992,'2699','Lakeshore @ Mto Patrol Yard',43.315275,-79.801256
 1993,'2693','Lakeshore Opposite Mto Patrol Yard',43.314997,-79.801194
 1994,'2698','Lakeshore @ Nelson',43.3208,-79.800479
@@ -1289,12 +1285,6 @@
 2430,'1371','Pirie @ Davidson',43.258065,-79.986693
 2431,'1370','Pirie @ Governors',43.256663,-79.989547
 2432,'1371','Pirie Opposite Newcombe',43.257751,-79.988676
-2433,'1329','@ 549 Plains',43.292903,-79.869997
-2434,'1328','Plains @ Botanical',43.291078,-79.879335
-2435,'1333','Plains Opposite Botanical',43.29132,-79.879447
-2436,'1325','Plains @ Spg Gdns',43.292987,-79.886072
-2437,'1333','Plains Opposite Spg Gdns',43.29313,-79.885997
-2438,'1333','Plains @ York',43.293659,-79.889168
 2439,'1319','Pleasant Opposite Autumn Leaf',43.253776,-79.962511
 2440,'1320','Pleasant @ Edenbridge',43.253496,-79.965914
 2441,'1320','Pleasant @ Grn Mdw',43.252159,-79.967817
@@ -1488,8 +1478,6 @@
 2644,'1315','South Opposite Lynden',43.260148,-79.950077
 2645,'1313','South @ Osler',43.2609,-79.944939
 2646,'1315','South @ Osler',43.261001,-79.94499
-2647,'1332','Spg Gdns @ Botanical',43.289062,-79.875212
-2648,'1324','Spg Gdns Opposite Woodland',43.288015,-79.87733
 2649,'2911','St. Josephs @ James',43.248182,-79.872055
 2650,'2016','St. Josephs @ Mountwood',43.247918,-79.870872
 2651,'2017','St. Josephs @ Mountwood',43.247918,-79.870872
@@ -1573,7 +1561,7 @@
 2736,'2194','@ 1475 Upper Gage',43.198605,-79.851481
 2737,'2199','@ 801 Upper Gage',43.220093,-79.842385
 2738,'2198','@ 877 Upper Gage',43.217737,-79.843398
-2739,'2180','Upper Gage @ Foley',43.217781,-79.843566
+2739,'2180','Opposite 877 Upper Gage',43.217781,-79.843566
 2740,'2195','Upper Gage @ Linc South',43.207237,-79.847789
 2741,'2194','Upper Gage @ Anna Capri',43.199718,-79.85103
 2742,'2185','Upper Gage Opposite Anna Capri',43.200102,-79.851032
@@ -1995,7 +1983,6 @@
 3186,'2467','Winterberry @ Mud',43.195688,-79.806593
 3187,'2456','Winterberry @ Paramount',43.192822,-79.806176
 3188,'2428','Winterberry @ Paramount',43.192544,-79.806334
-3189,'1326','@ Woodland Cemetery',43.286922,-79.879015
 3190,'2767','Woodward Opposite Museum Of Steam',43.255739,-79.773329
 3191,'2683','Woodward @ Museum Of Steam',43.255834,-79.773035
 3192,'1028','Woodward @ Barton',43.243443,-79.778738
@@ -2006,18 +1993,8 @@
 3198,'1028','Woodward @ Rennie',43.247297,-79.777052
 3199,'1042','Woodward @ Rennie',43.247316,-79.776797
 3200,'1042','Woodward @ Vansitmart',43.244068,-79.778186
-3202,'1325','York @ Plains',43.293324,-79.88933
 3203,'2932','York @ Bay',43.260027,-79.873106
 3204,'2978','York @ Locke',43.265474,-79.881375
-3205,'1264','York Opposite Hamilton Cemetery',43.269363,-79.885748
-3206,'1334','York @ Old Guelph',43.284911,-79.892655
-3207,'1323','York Opposite Old Guelph',43.285129,-79.892391
-3208,'1336','York @ Hamilton Cemetery North',43.276653,-79.889777
-3209,'1323','York Opposite Hamilton Cemetery',43.277039,-79.889764
-3210,'1264','York Opposite Hamilton Cemetery',43.271515,-79.886527
-3211,'1336','York @ Hamilton Cemetery',43.271155,-79.886712
-3212,'1336','York @ Hamilton Cemetery',43.274878,-79.888529
-3213,'1323','York Opposite Hamilton Cemetery',43.274663,-79.888115
 3214,'2932','York @ Hess',43.261457,-79.875331
 3215,'2979','York @ Inchbury',43.266029,-79.882242
 3217,'2983','York @ Locke',43.265439,-79.881704
@@ -2026,10 +2003,7 @@
 3220,'2984','York @ Queen',43.262791,-79.877438
 3221,'2978','Cannon @ Queen',43.262971,-79.8771
 3222,'2978','York @ Ray',43.26407,-79.878911
-3223,'1334','York Opposite Rock Gdn',43.2885,-79.89137
-3224,'1325','York @ Rock Gdn',43.289562,-79.890458
 3225,'2979','York Opposite Strathcona',43.266637,-79.882996
-3226,'1336','York @ Woodbine',43.268392,-79.885682
 3227,'1350','York Opposite Cairns',43.270355,-79.94718
 3228,'1347','York @ Cameron',43.27203,-79.944992
 3229,'1349','York @ Cameron',43.271594,-79.94533
@@ -2078,13 +2052,8 @@
 355297,'1156','King Opposite Lawrence',43.227277,-79.791651
 355298,'1147','King @ Lawrence',43.226928,-79.791491
 355301,'2368','Upper Wentworth @ Mohawk',43.223218,-79.862102
-355308,'2122','King Opposite Summers Ln',43.257528,-79.871785
-355309,'1082','James @ Cannon',43.260634,-79.867265
-355310,'1079','James @ Barton',43.264198,-79.865716
-355311,'1072','James @ Strachan',43.266858,-79.864539
 355312,'2121','Discovery @ Hwt Ctr',43.277532,-79.860558
 355313,'2121','Discovery @ Pier 8',43.276251,-79.860261
-355314,'1074','James @ Strachan',43.266786,-79.864774
 355315,'1460','Victoria @ King',43.25267,-79.856873
 355316,'1461','Victoria @ Wilson',43.255938,-79.855447
 355317,'1462','Victoria @ Cannon',43.258033,-79.854505
@@ -2099,7 +2068,7 @@
 355326,'1470','Wentworth @ Main',43.250535,-79.849746
 355327,'1471','Wentworth @ Delaware',43.24827,-79.850713
 355332,'1089','King @ James',43.256883,-79.869396
-355340,'1800','Aldershot Go Via Sta Platform 10',43.313005,-79.856707
+355340,'1800','Aldershot Go Via Sta Platform 10',43.312925,-79.856633
 355341,'1805','Mill @ Mtn Brow',43.32917,-79.884278
 355342,'1807','Mill @ Dundas',43.334034,-79.891178
 355343,'1809','Dundas @ Main',43.333264,-79.893124
@@ -2259,19 +2228,19 @@
 355556,'4473','Garner @ Bennetts Apples',43.208552,-79.939987
 355557,'4415','Rymal @ Dakota',43.181922,-79.814859
 355558,'4413','Rymal @ Fletcher',43.179874,-79.805935
-355559,'4411','Rymal Opposite 2nd',43.1776,-79.795986
-355560,'4411','Rymal @ Terryberry',43.175461,-79.786655
-355561,'4411','Rymal @ Walmart',43.174751,-79.783529
+355559,'4419','Rymal Opposite 2nd',43.1776,-79.795986
+355560,'4421','Rymal @ Terryberry',43.175461,-79.786655
+355561,'4423','Rymal @ Walmart',43.174751,-79.783529
 355563,'4407','Upper Centennial @ Highland',43.181358,-79.773032
 355565,'8090','Bay @ King',43.258236,-79.873579
 355566,'4071','Bay @ King',43.258236,-79.873579
 355567,'1140','Greenhill Opposite Erindale',43.22071,-79.810095
 355570,'1312','University Plz Platform 2',43.258396,-79.942772
-355571,'2128','Mohawk College Terminal Platform 1',43.238877,-79.884156
-355572,'3309','Mohawk College Terminal Platform 2',43.238545,-79.88402
-355573,'2901','Mohawk College Terminal Platform 3',43.238384,-79.883674
-355574,'3533','Mohawk College Terminal Platform 4',43.238115,-79.883773
-355575,'2959','Mohawk College Terminal Platform 5',43.237909,-79.883166
+355571,'2128','Mohawk College Terminal Pltfrm 1',43.238877,-79.884156
+355572,'3309','Mohawk College Terminal Pltfrm 2',43.238545,-79.88402
+355573,'2901','Mohawk College Terminal Pltfrm 3',43.238384,-79.883674
+355574,'3533','Mohawk College Terminal Pltfrm 4',43.238115,-79.883773
+355575,'2959','Mohawk College Terminal Pltfrm 5',43.237909,-79.883166
 355608,'2022','Macnab Terminal Platform 1',43.25588,-79.871192
 355609,'2023','Macnab Terminal Platform 2',43.256131,-79.871068
 355610,'2025','Macnab Terminal Platform 3',43.256399,-79.870944
@@ -2305,8 +2274,8 @@
 355751,'2297','@ 1441 Upper James',43.208207,-79.890449
 355752,'2287','@ 1452 Upper James',43.208189,-79.890622
 355753,'2386','Centennial @ Goderich',43.242065,-79.7584
-355754,'5618','Wal Mart',43.242492,-79.75585
-355757,'5624','Wal Mart',43.242573,-79.756047
+355754,'5618','Walmart',43.242492,-79.75585
+355757,'5624','Walmart',43.242573,-79.756047
 355760,'2962','Dundurn @ Charlton',43.254567,-79.891169
 355762,'1239','John @ King William',43.25655,-79.866166
 355763,'2946','John @ King William',43.25655,-79.866166
@@ -2321,10 +2290,9 @@
 355782,'2535','@ 198 Barton',43.231795,-79.736731
 355793,'4402','Upper Centennial @ Grn Mtn',43.199008,-79.765331
 355794,'4404','Upper Centennial @ Grn Mtn',43.19917,-79.765417
-355795,'9903','York Opposite Macnab',43.25905,-79.869445
 355796,'1400','Mtn Transit Ctr Platform 2',43.184666,-79.902052
 355797,'9208','Mtn Transit Ctr Rt Platform 1',43.185212,-79.901805
-355798,'9231','Mtn Transit Ctr Rt Platform 3',43.184684,-79.901928
+355798,'9231','Mtn Transit Ctr Platform 3',43.184684,-79.901928
 355799,'9224','John @ King William',43.25655,-79.866166
 355800,'9226','John @ Barton',43.263024,-79.863328
 355801,'9227','Barton @ Hughson',43.26375,-79.86433
@@ -2337,8 +2305,8 @@
 355809,'9236','West 5th @ Brantdale',43.241464,-79.881507
 355810,'9237','West 5th @ Fennell',43.239432,-79.882386
 355811,'1245','Barton @ Melrose',43.255004,-79.830409
-355812,'4420','Rymal Opposite Celestial',43.178786,-79.800695
-355813,'4411','Rymal @ Celestial',43.178769,-79.80114
+355812,'4424','Rymal Opposite Celestial',43.178984,-79.801646
+355813,'4411','Rymal @ Celestial',43.17893,-79.801708
 355814,'2170','Upper Wellington @ Mountville',43.242033,-79.865172
 355815,'2378','Centennial @ Vineyard',43.230491,-79.763163
 355816,'5602','Centennial Opposite Vineyard',43.230456,-79.763312
@@ -2363,7 +2331,7 @@
 355849,'5042','Opposite 211 Pritchard',43.195517,-79.818576
 355850,'5043','@ 211 Pritchard',43.195517,-79.818502
 355851,'4702','Mud @ Pritchard',43.200665,-79.816517
-355852,'4050','Upper Mt Albion @ Stone Church',43.1927,-79.810295
+355852,'4050','Upper Mt Albion @ Stone Church',43.192655,-79.810295
 355853,'5166','Stone Church @ Redhill Vly Pkwy',43.192739,-79.815736
 355854,'1852','Dundas Opposite Waterdown Mnr',43.33501,-79.890943
 355855,'1854','Dundas @ 1st',43.337518,-79.887708
@@ -2384,7 +2352,7 @@
 355870,'1874','Hollybush @ Dundas',43.319874,-79.909034
 355871,'1877','@ 50 Horseshoe',43.316372,-79.915872
 355872,'1876','Clappison @ Dundas',43.318298,-79.912019
-355873,'1879','Walmart Supercenter',43.315208,-79.909603
+355873,'1879','Waterdown Walmart',43.315208,-79.909603
 355874,'1866','Dundas @ Howlandmills',43.31966,-79.908749
 355875,'1868','Dundas @ Dennis',43.321818,-79.906234
 355876,'1878','Dundas @ Bayview',43.324389,-79.903297
@@ -2415,7 +2383,7 @@
 355906,'1886','Clappison @ Dundas',43.318298,-79.912019
 355909,'1885','Clappison @ Dundas',43.318173,-79.911672
 355910,'1887','@ 50 Horseshoe',43.316372,-79.915872
-355911,'1889','Walmart Supercenter',43.315208,-79.909603
+355911,'1889','Waterdown Walmart',43.315208,-79.909603
 355917,'3597','West 5th @ Fennell',43.239566,-79.882448
 355919,'2096','West 5th @ Brantdale',43.241625,-79.881581
 355921,'3396','West 5th @ Brantdale',43.241625,-79.881581

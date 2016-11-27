@@ -14,8 +14,6 @@
 700,0,'Hillcrest Loop',7
 801,0,'Downtown',8
 800,0,'Strathcona Loop',8
-900,0,'Cemeteries',9
-901,0,'Downtown',9
 1000,0,'Eastgate Sq',10
 1001,0,'University Plz',10
 1101,0,'Burlington Terminal',11
@@ -64,5 +62,3 @@
 5600,0,'Lakeland CC',56
 5801,0,'Eastgate Sq',58
 5800,0,'King @ Hwy 8',58
-9901,0,'Downtown',99
-9900,0,'Waterfront @ Pier 8',99
