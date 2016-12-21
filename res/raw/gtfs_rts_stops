@@ -90,7 +90,7 @@
 1094,'1345','Barton @ Milton',43.257984,-79.841444
 1095,'1258','Barton @ Nash',43.239195,-79.771003
 1096,'1215','Barton @ Nash',43.239437,-79.771386
-1097,'1351','Barton @ Osborne',43.242361,-79.776139
+1097,'1351','Barton @ Osborne',43.24237,-79.77617
 1098,'1249','Barton @ Ottawa',43.251396,-79.816354
 1099,'1224','Barton @ Ottawa',43.251386,-79.815833
 1101,'1220','Barton @ Parkdale',43.245081,-79.788916
@@ -1223,7 +1223,7 @@
 2364,'1051','Ottawa Opposite Craigmiller',43.252786,-79.815498
 2365,'1048','Ottawa @ Dunsmure',43.244513,-79.818837
 2366,'1030','Ottawa @ Main',43.242777,-79.819786
-2367,'1035','Ottawa @ Roxborough',43.245976,-79.818441
+2367,'1035','Ottawa @ Roxborough',43.245969,-79.818414
 2368,'1047','Ottawa @ Main',43.242728,-79.819606
 2369,'1046','Ottawa @ Maple',43.241217,-79.820165
 2370,'1037','Ottawa @ Maple',43.241045,-79.820434
@@ -1265,7 +1265,7 @@
 2410,'2502','Parkdale @ Dunsmure',43.238159,-79.791192
 2411,'2436','Parkdale @ Mahony',43.246746,-79.787756
 2412,'2505','Parkdale Opposite Mahony',43.246687,-79.787612
-2413,'2440','Parkdale @ Main',43.236106,-79.792269
+2413,'2440','Parkdale @ Main',43.236099,-79.792218
 2414,'2501','Parkdale @ Main',43.236226,-79.792018
 2415,'2510','Parkdale @ Mead',43.253939,-79.784618
 2416,'2434','Parkdale Opposite Mead',43.253682,-79.784906
@@ -1330,7 +1330,7 @@
 2483,'2102','Queensdale @ Upper Wentworth',43.236663,-79.856403
 2484,'2166','Queensdale @ Upper Wentworth',43.236696,-79.855973
 2485,'2720','Queenston @ Pottruff',43.231681,-79.781372
-2488,'2726','Queenston Opposite Clapham',43.229362,-79.770317
+2488,'2726','Queenston Opposite Clapham',43.229362,-79.770428
 2489,'2722','Queenston Opposite Eastgate Sq',43.228646,-79.767501
 2490,'2389','Queenston Opposite Riverdale',43.227373,-79.76119
 2491,'1353','@ 940 Queenston',43.225274,-79.752519
@@ -1756,7 +1756,7 @@
 2939,'2869','Upper Paradise @ Wingfield',43.222007,-79.916796
 2940,'2216','Upper Sherman @ Acadia',43.199085,-79.861981
 2941,'2217','Upper Sherman Opposite Acadia',43.198756,-79.861878
-2942,'2218','Upper Sherman @ Astonwood',43.205701,-79.858689
+2942,'2218','Upper Sherman @ Astonwood',43.205737,-79.858786
 2943,'2218','Upper Sherman @ Atherley',43.208067,-79.857663
 2944,'2221','Upper Sherman @ Berko',43.216504,-79.85394
 2945,'2206','Upper Sherman @ Brucedale',43.232366,-79.847277
@@ -1794,7 +1794,7 @@
 2977,'2216','Upper Sherman @ Rymal',43.195467,-79.863554
 2978,'2211','Upper Sherman @ Southampton',43.216781,-79.854085
 2979,'2217','Upper Sherman @ Stone Church',43.20347,-79.859755
-2980,'2215','Upper Sherman @ Stone Church',43.203899,-79.859761
+2980,'2215','Upper Sherman @ Stone Church',43.203955,-79.859678
 2981,'2215','Upper Sherman @ Beaverton',43.20247,-79.860404
 2982,'2219','Upper Sherman @ Rymal',43.195537,-79.86336
 2983,'2261','@ 1069 Upper Wellington',43.220995,-79.87394
@@ -1820,7 +1820,7 @@
 3004,'2252','Upper Wellington @ Hester',43.222854,-79.873414
 3005,'2265','Upper Wellington @ Howe',43.232238,-79.869372
 3006,'2250','Upper Wellington Opposite Howe',43.232462,-79.869384
-3007,'2213','Upper Wellington @ Inverness',43.241254,-79.865642
+3007,'2213','Upper Wellington @ Inverness',43.241165,-79.865655
 3008,'2260','Upper Wellington @ Jay',43.21945,-79.874546
 3009,'2259','Upper Wellington @ Limeridge',43.217143,-79.875382
 3010,'2255','Upper Wellington @ Limeridge',43.217864,-79.875412
@@ -2068,7 +2068,7 @@
 355326,'1470','Wentworth @ Main',43.250535,-79.849746
 355327,'1471','Wentworth @ Delaware',43.24827,-79.850713
 355332,'1089','King @ James',43.256883,-79.869396
-355340,'1800','Aldershot Go Via Sta Platform 10',43.312925,-79.856633
+355340,'1800','Aldershot Go Via Sta Platform 10',43.312898,-79.856546
 355341,'1805','Mill @ Mtn Brow',43.32917,-79.884278
 355342,'1807','Mill @ Dundas',43.334034,-79.891178
 355343,'1809','Dundas @ Main',43.333264,-79.893124
@@ -2101,7 +2101,7 @@
 355378,'1531','Rymal @ Upper Gage',43.192787,-79.853638
 355379,'1523','Rymal @ Upper Sherman',43.195244,-79.863455
 355380,'1521','Rymal Opposite Arrowhead',43.196024,-79.866621
-355381,'1519','Rymal @ Acadia',43.196499,-79.868512
+355381,'1519','Rymal @ Acadia',43.196454,-79.868463
 355382,'1517','Rymal @ Upper Wentworth',43.197601,-79.872927
 355383,'1509','Rymal @ Upper Wellington',43.200066,-79.883042
 355384,'1507','Rymal @ Atessa',43.201213,-79.887729
