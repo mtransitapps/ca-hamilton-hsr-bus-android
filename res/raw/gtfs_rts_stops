@@ -516,9 +516,9 @@
 1567,'2458','Golf Links Opposite Kitty Murray',43.225849,-79.95217
 1568,'2461','Golf Links @ Kitty Murray',43.22551,-79.952992
 1569,'2458','Golf Links @ Legend',43.226566,-79.948022
-1570,'2399','Golf Links Opposite Martindale',43.227016,-79.944351
-1571,'2424','Golf Links Opposite Martindale',43.227025,-79.944364
-1572,'2474','Golf Links Opposite Martindale',43.227025,-79.944364
+1570,'2399','Golf Links Opposite Martindale',43.227052,-79.943943
+1571,'2424','Golf Links Opposite Martindale',43.227052,-79.943943
+1572,'2474','Golf Links Opposite Martindale',43.227052,-79.943955
 1573,'2471','Golf Links @ Mcniven',43.224116,-79.96192
 1574,'2461','Golf Links @ Meadowlands',43.226253,-79.948568
 1575,'2471','Golf Links @ Onondaga',43.224974,-79.959248
@@ -932,7 +932,7 @@
 2042,'2957','Longwood @ King',43.262872,-79.900723
 2043,'1485','Longwood @ Main',43.259609,-79.902331
 2044,'2955','Longwood @ Main',43.258715,-79.902133
-2045,'2935','Longwood @ Marion',43.260561,-79.901911
+2045,'2935','Longwood @ Marion',43.260022,-79.902086
 2046,'2956','Longwood Opposite Marion',43.260592,-79.901716
 2047,'1343','@ 100 Macklin',43.266135,-79.895085
 2049,'1343','Macklin @ Kay Drage Pk',43.268746,-79.893953
@@ -1055,8 +1055,8 @@
 2180,'2452','@ 122 Martindale',43.229014,-79.944564
 2181,'2451','Martindale Opposite Neville',43.229246,-79.94199
 2182,'2451','Martindale @ Golflinks East',43.22858,-79.939348
-2183,'2470','Meadowlands Terminal Platform 1',43.227258,-79.944661
-2184,'2402','Meadowlands Terminal Platform 2',43.227651,-79.944822
+2183,'2470','Meadowlands Terminal Platform 1',43.227401,-79.94471
+2184,'2402','Meadowlands Terminal Platform 2',43.227857,-79.944847
 2185,'2748','University @ Life Sciences',43.260998,-79.918618
 2186,'1097','University Opposite Life Sciences',43.261033,-79.918797
 2189,'1344','University @ Forsyth',43.258561,-79.918982
@@ -1232,7 +1232,7 @@
 2369,'1046','Ottawa @ Maple',43.241217,-79.820165
 2370,'1037','Ottawa @ Maple',43.241045,-79.820434
 2371,'1192','Paradise @ Main',43.260755,-79.899657
-2372,'2126','Paramount @ Upper Mt Albion',43.191858,-79.810061
+2372,'2126','Paramount @ Upper Mt Albion',43.191911,-79.809628
 2373,'2906','Paramount @ Upper Mt Albion',43.191957,-79.810469
 2374,'2459','Paramount @ Amberwood',43.202658,-79.799408
 2375,'2483','Paramount Opposite Amberwood',43.202789,-79.799564
@@ -1253,8 +1253,8 @@
 2392,'2462','Paramount @ Mud',43.195329,-79.796362
 2393,'2462','Paramount @ Pembroke',43.193622,-79.798289
 2394,'2484','Paramount Opposite Pembroke',43.19363,-79.797593
-2395,'2906','Stone Church @ Heritage Greene',43.19202,-79.811668
-2396,'2126','Stone Church Opposite Heritage Greene',43.191931,-79.811755
+2395,'2906','Stone Church @ Heritage Greene',43.19211,-79.812311
+2396,'2126','Stone Church Opposite Heritage Greene',43.19203,-79.812348
 2397,'2173','Paramount @ Vly Pk Loop',43.194754,-79.796361
 2400,'2949','Pk @ Charlton',43.250746,-79.875194
 2401,'2435','@ 423 Parkdale',43.248354,-79.78705
@@ -1601,7 +1601,7 @@
 2768,'2203','Upper Gage @ Queensdale',43.231995,-79.837167
 2769,'2184','Upper Gage @ Robertsfield',43.203468,-79.84966
 2770,'2193','Upper Gage @ Royal Vista',43.256131,-79.871068
-2771,'2186','Upper Gage @ Royalvista',43.197675,-79.852027
+2771,'2186','Upper Gage @ Royalvista',43.197395,-79.851982
 2772,'2186','Upper Gage @ Rymal',43.193169,-79.853892
 2773,'2193','Upper Gage @ Rymal',43.193328,-79.853429
 2774,'2177','Upper Gage @ 7th',43.225453,-79.840236
@@ -2059,7 +2059,7 @@
 355278,'1043','Kenilworth Cir @ Kimberly',43.229856,-79.814042
 355279,'2475','@ 122 Martindale',43.228977,-79.944587
 355280,'1042','Woodward @ Walmer',43.245614,-79.777562
-355281,'1485','Longwood @ Marion',43.260561,-79.901911
+355281,'1485','Longwood @ Marion',43.260022,-79.902086
 355282,'1176','King @ Queen',43.259572,-79.879236
 355284,'1028','Woodward Opposite Walmer',43.24539,-79.777872
 355286,'2867','Stone Church @ Stonehenge',43.224126,-79.934266
@@ -2386,10 +2386,10 @@
 355883,'1864','Spg Crk @ Niska',43.348265,-79.883417
 355884,'1862','Spg Crk @ Blue Sky',43.345228,-79.879352
 355885,'4001','Winterberry @ Paramount',43.192822,-79.806176
-355886,'5041','Stone Church @ Heritage Greene',43.192029,-79.811656
+355886,'5041','Stone Church @ Heritage Greene',43.19211,-79.812311
 355887,'2903','Stone Church @ Redhill Vly Pkwy',43.192739,-79.815736
-355888,'5166','Stone Church Opposite Heritage Greene',43.191931,-79.811755
-355889,'5166','Paramount @ Upper Mt Albion',43.191858,-79.810061
+355888,'5166','Stone Church Opposite Heritage Greene',43.19203,-79.812348
+355889,'5166','Paramount @ Upper Mt Albion',43.191911,-79.809628
 355890,'1806','Burke @ Humphrey',43.338332,-79.881759
 355892,'2071','West 5th @ Fennell',43.239566,-79.882448
 355896,'2906','Stone Church @ Redhill Vly Pkwy',43.192577,-79.814413
