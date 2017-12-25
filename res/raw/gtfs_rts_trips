@@ -1,5 +1,5 @@
 100,0,'Fiesta Mall',1
-101,0,'Hamilton GO Ctr',1
+101,0,'Hamilton Go Ctr',1
 200,0,'Bell Mnr Loop',2
 201,0,'Hamilton Go Ctr',2
 301,0,'Hamilton Go Ctr',3
@@ -26,7 +26,7 @@
 1802,1,'W',18
 2000,0,'Airport',20
 2001,0,'Waterfront @ Pier 8',20
-2100,0,'Heritage Greene TC',21
+2100,0,'Heritage Grn TC',21
 2101,0,'MacNab TT',21
 2201,0,'MacNab TT',22
 2200,0,'Upper Ottawa @ Rymal',22
@@ -64,3 +64,5 @@
 5600,0,'Lakeland CC',56
 5801,0,'Eastgate Sq',58
 5800,0,'King @ Hwy 8',58
+10000100,0,'St Thomas More HS',100001
+10000101,0,'St Thomas More HS PM',100001
