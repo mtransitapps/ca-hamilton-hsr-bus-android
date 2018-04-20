@@ -13,7 +13,7 @@
 1013,'2939','Aberdeen @ Studholme',43.252588,-79.899439
 1014,'2953','Aberdeen Opposite Studholme',43.252796,-79.899563
 1015,'2941','Aberdeen @ Undermount',43.249761,-79.887735
-1017,'20631','Amberley Opposite Bloomsbury',43.207556,-79.985157
+1017,'2630','Amberley Opposite Bloomsbury',43.207556,-79.985157
 1018,'2632','Amberly Opposite Chippendale',43.207699,-79.998995
 1019,'2621','Amberly @ Sunnymeade',43.207392,-79.999086
 1020,'2622','Amberly @ Cottingham West',43.206743,-79.989295
@@ -42,7 +42,7 @@
 1044,'1250','Barton @ Agnes',43.250583,-79.812716
 1045,'1245','Barton @ Barnesdale',43.255712,-79.833342
 1046,'1228','Barton @ Barnesdale',43.255824,-79.833199
-1047,'1207','Bell Mnr Loop Platform 1',43.232886,-79.742718
+1047,'1207','Bell Mnr Loop Platform 1',43.23293,-79.742717
 1048,'1207','Bell Mnr Loop Platform 2',43.232886,-79.742792
 1050,'1248','Barton Opposite Lincoln',43.252758,-79.821686
 1051,'1244','Barton @ Birch',43.257451,-79.840021
@@ -242,7 +242,7 @@
 1265,'1278','Cannon @ Kenilworth',43.245191,-79.8075
 1266,'1290','Cannon @ Kenilworth',43.245361,-79.807621
 1267,'1272','Cannon @ Lottridge',43.251844,-79.832962
-1268,'1295','Cannon @ Lottridge',43.251908,-79.832552
+1268,'1295','Cannon @ Lottridge',43.251879,-79.832627
 1269,'1276','Cannon @ Ottawa',43.247491,-79.817867
 1271,'1277','Cannon @ Robins',43.245835,-79.810363
 1272,'1291','Cannon @ Robins',43.245877,-79.809919
@@ -894,7 +894,7 @@
 2007,'1165','Lawrence @ Rosslyn',43.236113,-79.825736
 2008,'1166','Lawrence @ Rothsay',43.236878,-79.827311
 2009,'2125','Lime Rdg Terminal Platform 3',43.217872,-79.863404
-2010,'1068','Lime Rdg Terminal Platform 5',43.217568,-79.863553
+2010,'1068','Lime Rdg Terminal Platform 5',43.217559,-79.863528
 2011,'1069','Lime Rdg Terminal Platform 4',43.217738,-79.863454
 2012,'2239','Lime Rdg Terminal Platform 1',43.218096,-79.863219
 2013,'1434','Lime Rdg Terminal Platform 2',43.21798,-79.863244
@@ -914,7 +914,7 @@
 2028,'2281','Limeridge @ Kendale',43.224491,-79.899649
 2029,'2303','Limeridge Opposite Kendale',43.224911,-79.900008
 2030,'9999','Limeridge @ West 5th',43.221505,-79.89177
-2032,'80716','Locke @ Charlton',43.253349,-79.886615
+2032,'2965','Locke @ Charlton',43.253349,-79.886615
 2033,'2964','Locke @ Main',43.258546,-79.884231
 2034,'2965','Locke @ Melbourne',43.255323,-79.885776
 2035,'2958','Longwood @ Edgevale',43.266014,-79.899359
@@ -1017,7 +1017,7 @@
 2148,'1184','Main Opposite Macklin',43.259941,-79.897766
 2149,'2920','Main @ Macnab',43.255821,-79.871999
 2150,'2839','Main @ Macnab',43.255871,-79.872194
-2151,'90914','Main @ Macnab',43.255755,-79.871791
+2151,'1087','Main @ Macnab',43.255755,-79.871791
 2153,'1194','Main Opposite 403 Ramp',43.258618,-79.906689
 2154,'2602','Main @ Norfolk',43.257715,-79.923338
 2155,'1194','Main @ Paisley',43.258838,-79.905054
@@ -1279,7 +1279,7 @@
 2428,'2499','Parkdale @ Lucerne',43.230871,-79.794293
 2429,'2501','Parkdale @ Queenston',43.234309,-79.792804
 2430,'1371','Pirie @ Davidson',43.258065,-79.986693
-2431,'30423','Pirie @ Governor''s',43.256583,-79.989534
+2431,'1370','Pirie @ Governor''s',43.256583,-79.989534
 2432,'1371','Pirie Opposite Newcombe',43.257751,-79.988676
 2439,'1319','Pleasant Opposite Autumn Leaf',43.253776,-79.962511
 2440,'1320','Pleasant @ Edenbridge',43.253496,-79.965914
@@ -1363,7 +1363,7 @@
 2525,'2720','Queenston @ Woodman',43.231089,-79.778824
 2526,'2999','Quigley Opposite Albright',43.216711,-79.784261
 2527,'2995','Quigley @ Albright',43.216357,-79.784634
-2528,'1306','Quigley @ Angus',43.218836,-79.783395
+2528,'1306','Quigley @ Angus',43.218817,-79.783476
 2529,'2993','Quigley Opposite Angus',43.218879,-79.783562
 2530,'2450','Quigley @ Greenhill',43.210411,-79.787362
 2531,'2997','Quigley @ Greenhill',43.209886,-79.787629
@@ -1392,7 +1392,7 @@
 2555,'1139','Rosedale @ Montrose',43.226717,-79.809863
 2556,'1133','Rosslyn @ Justine',43.236563,-79.825605
 2557,'2658','Rousseaux @ Academy',43.22971,-79.970892
-2558,'2669','Rousseaux Opposite Academy',43.229792,-79.970792
+2558,'2669','Rousseaux Opposite Academy',43.229737,-79.970732
 2560,'2658','Rousseaux @ Wilson',43.230729,-79.973677
 2561,'1283','Roxborough @ Adair',43.239258,-79.788898
 2562,'1286','Roxborough @ Adair',43.239229,-79.788055
@@ -1577,7 +1577,7 @@
 2767,'2175','Upper Gage @ Queensdale',43.23221,-79.837306
 2768,'2203','Upper Gage @ Queensdale',43.231995,-79.837167
 2769,'2184','Upper Gage @ Robertsfield',43.203468,-79.84966
-2770,'2023','Upper Gage @ Royalvista',43.197395,-79.851982
+2770,'2193','Upper Gage @ Royalvista',43.197433,-79.852002
 2771,'2186','Upper Gage @ Royalvista',43.197395,-79.851982
 2772,'2186','Upper Gage @ Rymal',43.193169,-79.853892
 2773,'2193','Upper Gage @ Rymal',43.193328,-79.853429
@@ -1638,7 +1638,7 @@
 2832,'2309','Upper James @ South Bend',43.231604,-79.880324
 2833,'2273','Upper James @ South Bend',43.23189,-79.880441
 2834,'2298','Upper James @ Stone Church',43.210848,-79.889199
-2835,'2286','Upper James @ Stone Church',43.211215,-79.889273
+2835,'9216','Upper James @ Stone Church',43.211215,-79.889273
 2837,'2290','Upper James @ Twenty',43.191919,-79.898396
 2838,'2272','Upper James @ Wembley',43.234833,-79.879115
 2839,'2311','Upper James Opposite Wembley',43.234717,-79.878811
@@ -2071,7 +2071,7 @@
 355366,'1810','Mill @ Dundas',43.333873,-79.891215
 355367,'1808','Mill @ Mtn Brow',43.329215,-79.884612
 355368,'1321','Main @ Longwood',43.259086,-79.901706
-355370,'51647','Rymal Opposite Glover',43.186137,-79.825438
+355370,'1547','Rymal Opposite Glover',43.186137,-79.825438
 355371,'1545','Rymal @ Dartnall',43.187978,-79.833597
 355372,'1543','@ 1275 Rymal',43.188767,-79.837034
 355373,'1541','Rymal @ Nebo',43.189315,-79.839309
@@ -2228,7 +2228,7 @@
 355731,'2933','Longwood @ King',43.262682,-79.900972
 355732,'2182','Stone Church Opposite Nebo',43.197792,-79.834416
 355733,'2420','Gatestone Opposite Beachgrove',43.187476,-79.784681
-355734,'2964','Locke @ Hunter',43.256886,-79.885005
+355734,'2964','Locke @ Hunter',43.256832,-79.88503
 355735,'4495','Osprey Opposite Sandhill',43.192877,-80.023785
 355736,'3541','Sister Elisabeth @ Sister Varga',43.205431,-79.912181
 355738,'3540','Garth @ Rymal',43.206613,-79.912502
@@ -2272,7 +2272,7 @@
 355808,'9235','West 5th @ Gateview',43.243622,-79.880628
 355809,'9236','West 5th @ Brantdale',43.241464,-79.881507
 355810,'9237','West 5th @ Fennell',43.239432,-79.882386
-355811,'72396','Barton @ Melrose',43.255712,-79.833342
+355811,'1245','Barton @ Melrose',43.255712,-79.833342
 355812,'4424','Rymal Opposite Celestial',43.178984,-79.801646
 355813,'4411','Rymal @ Celestial',43.17893,-79.801708
 355814,'2170','Upper Wellington @ Mountville',43.242033,-79.865172
@@ -2375,7 +2375,7 @@
 355941,'1343','Macklin @ Coronation Arena',43.264526,-79.895661
 355942,'1152','King Opposite Stoney Crk Cemetery',43.219555,-79.769656
 355943,'1104','Governor''s @ Main',43.26313,-79.953173
-355944,'2607','Wilson @ Wentworth Arenas',43.245705,-79.945971
+355944,'2607','Wilson @ Wentworth Arenas',43.24566,-79.946057
 355945,'2679','Burlington @ Hobson',43.256636,-79.796009
 355946,'2728','Queenston Opposite Queenston Pl',43.230774,-79.77686
 355947,'2720','Queenston @ Queenston Pl',43.230586,-79.776501
@@ -2393,7 +2393,7 @@
 355960,'2472','Highland @ Chaumont',43.183426,-79.781547
 355962,'1616','Meadowlands Terminal Platform 3',43.228278,-79.944983
 355964,'2764','Beach @ Hamilton Beach Rescue Unit',43.272087,-79.778466
-355967,'51345','Mohawk @ Upper Kenilworth',43.21419,-79.822462
+355967,'4245','Mohawk @ Upper Kenilworth',43.21419,-79.822462
 355969,'1196','Main @ Osler',43.257341,-79.934677
 355970,'1205','Osler Opposite University Plz',43.259721,-79.942724
 355971,'1107','Osler @ University Plz',43.259461,-79.942389
@@ -2416,5 +2416,5 @@
 355988,'1519','Rymal @ Rymal Sq Plz',43.196947,-79.870417
 355989,'1517','Rymal @ Upper Wentworth',43.197718,-79.873446
 355990,'2787','Rymal Opposite Turner Pk',43.199017,-79.878813
-355999,'60401a','Sanatorium Opposite Brow Bldg',43.245218,-79.915687
-356000,'50341a','Upper Sherman @ Dulgaren',43.198744,-79.861981
+355999,'2346','Sanatorium Opposite Brow Bldg',43.245218,-79.915687
+356000,'2217','Upper Sherman @ Dulgaren',43.198744,-79.861981
