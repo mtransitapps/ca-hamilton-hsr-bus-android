@@ -14,6 +14,8 @@
 700,0,'Hillcrest Loop',7
 801,0,'Downtown',8
 800,0,'Strathcona Loop',8
+900,0,'Cemeteries',9
+901,0,'Downtown',9
 1000,0,'Eastgate Sq',10
 1001,0,'University Plz',10
 1101,0,'Burlington Terminal',11
@@ -22,8 +24,8 @@
 1200,0,'Wentworth @ Burlington',12
 1600,0,'Garner @ Wilson',16
 1601,0,'Meadowlands',16
-1801,1,'E',18
-1802,1,'W',18
+1800,0,'Clockwise',18
+1801,0,'Counter-Clockwise',18
 2000,0,'Airport',20
 2001,0,'Waterfront @ Pier 8',20
 2100,0,'Heritage Grn TC',21
@@ -54,8 +56,6 @@
 4301,0,'Meadowlands',43
 4400,0,'Ancaster Business Pk',44
 4401,0,'Eastgate Sq',44
-5101,0,'Hamilton Go Ctr',51
-5100,0,'West Hamilton Loop',51
 5200,0,'Orchard @ Pleasant',52
 5201,0,'York @ Watson''s Ln Loop',52
 5501,0,'Eastgate Sq',55
@@ -66,3 +66,4 @@
 5800,0,'King @ Hwy 8',58
 10000100,0,'St Thomas More HS',100001
 10000101,0,'St Thomas More HS PM',100001
+10000200,0,'Tim Hortons Field',100002
