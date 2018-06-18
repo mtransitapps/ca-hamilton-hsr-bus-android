@@ -2,16 +2,16 @@ Title: Hamilton HSR Bus - MonTransit
 ----------
 Short description:
 Hamilton HSR buses for MonTransit.
-Schedule…
+Schedule. News. Alerts.
 ----------
 What's new in this version?:
-Schedule from June 24, 2018 to September 1, 2018.
+Schedule from April 29, 2018 to June 23, 2018.
 Tweets from @HSR and @HSRNow.
 ----------
 Full description:
 This application adds Hamilton HSR buses information to MonTransit.
 
-This app contains the buses schedule (available offline).
+This app provides the buses schedule (offline) as well as service alerts from @HSRNow and news from @HSR on Twitter.
 
 HSR buses serve Hamilton in Ontario, Canada.
 
@@ -22,7 +22,7 @@ This application only has a temporary icon and no screen: download the MonTransi
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by City of Hamilton and Hamilton Street Railway.
-http://www.hamilton.ca/ProjectsInitiatives/OpenData/
+https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-program
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-hamilton-hsr-bus-android
@@ -30,7 +30,7 @@ https://github.com/mtransitapps/ca-hamilton-hsr-bus-android
 This app is not related with City of Hamilton and Hamilton Street Railway.
 
 Permissions:
-- Other: required for real-time information
+- Other: required for real-time information and to read news from Twitter
 ----------
 Application type: Applications
 ----------
