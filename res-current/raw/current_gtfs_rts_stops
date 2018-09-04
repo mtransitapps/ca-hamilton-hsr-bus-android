@@ -258,7 +258,6 @@
 1281,'2380','Centennial Opposite Arrowsmith',43.239404,-79.75926
 1282,'2386','Centennial @ Barton',43.237665,-79.760314
 1283,'2379','Centennial @ Barton',43.236623,-79.760515
-1284,'2383','Centennial @ Delawana',43.232658,-79.762483
 1285,'2379','Centennial @ Delawana',43.232077,-79.762424
 1286,'2383','Centennial @ Eastgate',43.235191,-79.761273
 1287,'2598','Centennial @ Felker',43.224807,-79.765439
@@ -322,11 +321,11 @@
 1353,'2030','Concession @ Upper Wellington',43.24403,-79.864453
 1354,'2082','Concession @ Summit',43.241133,-79.85234
 1356,'2037','Concession @ Upper Wentworth',43.241448,-79.854381
-1357,'2381','Wild Waterworks Loop',43.24583,-79.746375
 1358,'1103','Cootes @ Dundas',43.265434,-79.944695
 1359,'1199','Cootes @ East',43.265488,-79.945302
 1360,'1199','Cootes @ King',43.265572,-79.949361
 1361,'1371','Davidson @ Governors',43.257096,-79.986312
+1362,'1128','Delaware @ Burris',43.24712,-79.846441
 1363,'1171','Delaware @ Burris',43.247005,-79.845463
 1364,'1129','Delaware @ Holton',43.246446,-79.843787
 1365,'1170','Delaware @ Holton',43.246511,-79.843525
@@ -454,7 +453,6 @@
 1502,'1167','Opposite 194 Gage',43.242265,-79.830939
 1503,'1131','Gage @ Cumberland',43.241012,-79.831682
 1504,'1167','Gage Opposite Cumberland',43.240625,-79.831632
-1506,'1419','Garner @ Hwy 2',43.194848,-80.022514
 1509,'1429','Garner @ Walmart',43.196449,-80.014491
 1510,'2283','Garth @ Linc North',43.225575,-79.904357
 1511,'2302','Garth @ Linc North',43.225539,-79.904185
@@ -495,6 +493,8 @@
 1549,'2421','Highbury @ Gatestone',43.179305,-79.788985
 1550,'2420','Gatestone @ Highland',43.184755,-79.786935
 1551,'2421','Gatestone @ Shadyglen',43.18165,-79.788165
+1553,'2898','Glancaster @ Garner',43.209758,-79.928936
+1554,'2862','Glancaster @ Garner',43.21001,-79.928763
 1555,'2862','Glancaster Loop',43.208375,-79.928892
 1556,'2507','Glow @ Brighton',43.254404,-79.780808
 1557,'2432','Glow @ Brighton',43.254467,-79.78054
@@ -700,13 +700,13 @@
 1783,'2093','John @ Charlton',43.248795,-79.869208
 1784,'2094','John @ Charlton',43.248795,-79.869208
 1785,'2097','John @ Charlton',43.248795,-79.869208
+1790,'1092','John @ Jackson',43.253676,-79.867418
 1791,'2089','John @ Jackson',43.253676,-79.867418
 1792,'2092','John @ Jackson',43.253676,-79.867418
 1793,'2096','John @ Jackson',43.253676,-79.867418
 1794,'2093','John @ Young',43.250596,-79.868583
 1795,'2094','John @ Young',43.250596,-79.868583
 1796,'2097','John @ Young',43.250596,-79.868583
-1797,'2589','Jones @ Barton',43.219908,-79.68981
 1798,'2529','Jones @ Hwy 8',43.212555,-79.692514
 1799,'1151','Jones @ King',43.216759,-79.754279
 1800,'1134','Justine @ Balmoral',43.23655,-79.824666
@@ -1223,6 +1223,7 @@
 2369,'1046','Ottawa @ Maple',43.241217,-79.820165
 2370,'1037','Ottawa @ Maple',43.241045,-79.820434
 2371,'1192','Paradise @ Main',43.260755,-79.899657
+2372,'2126','Paramount @ Upper Mt Albion',43.191911,-79.809628
 2373,'2906','Paramount @ Upper Mt Albion',43.191957,-79.810469
 2374,'2459','Paramount @ Amberwood',43.202658,-79.799408
 2375,'2483','Paramount Opposite Amberwood',43.202789,-79.799564
@@ -1562,7 +1563,6 @@
 2745,'2202','Upper Gage @ Brucedale',43.230132,-79.838014
 2746,'2077','Upper Gage @ Concession',43.236665,-79.835201
 2748,'2046','Upper Gage @ Crockett',43.234648,-79.836273
-2749,'2077','Upper Gage Opposite Crockett',43.234736,-79.836032
 2750,'2178','Upper Gage @ Dallas',43.222149,-79.841683
 2751,'2180','Upper Gage @ Edwina',43.213824,-79.845208
 2752,'2176','Upper Gage @ Fennell',43.228271,-79.839056
@@ -1619,7 +1619,7 @@
 2805,'2271','Upper James @ Fennell',43.237496,-79.877895
 2806,'2312','Upper James @ Fennell',43.237013,-79.877957
 2807,'2307','Upper James @ Hester',43.224725,-79.883216
-2808,'2276','Upper James Opposite Hester',43.224611,-79.883561
+2808,'2276','Upper James Opposite Hester',43.224731,-79.883524
 2809,'2276','Upper James @ Aldridge',43.221519,-79.884898
 2810,'2307','Upper James Opposite Jameston',43.222896,-79.883992
 2811,'2289','Upper James @ Kennedy',43.201742,-79.893851
@@ -2032,6 +2032,7 @@
 355264,'2129','Kilbride @ Transfer Sta',43.187812,-79.84229
 355265,'2129','Kilbride @ Upper Ottawa',43.188315,-79.8448
 355269,'2147','Upper Ottawa @ Rymal',43.189989,-79.84423
+355270,'2346','@ 820 Sanatorium',43.243436,-79.915006
 355276,'2038','Concession @ Upper Wentworth',43.241448,-79.854381
 355277,'1183','University Opposite Life Sciences',43.261033,-79.918797
 355278,'1043','Kenilworth Cir @ Kimberly',43.229856,-79.814042
@@ -2059,7 +2060,7 @@
 355312,'2121','Discovery @ Hwt Ctr',43.277532,-79.860558
 355313,'2121','Discovery @ Pier 8',43.276251,-79.860261
 355314,'1074','James @ Strachan',43.266786,-79.864774
-355315,'1460','Victoria @ King',43.25284,-79.856873
+355315,'1460','Victoria @ King',43.252995,-79.856703
 355316,'1461','Victoria @ Wilson',43.255938,-79.855447
 355317,'1462','Victoria @ Cannon',43.258033,-79.854505
 355318,'1463','Victoria @ Barton',43.261221,-79.853116
@@ -2107,6 +2108,7 @@
 355383,'1509','Rymal @ Upper Wellington',43.200066,-79.883042
 355384,'1507','Rymal @ Atessa',43.201213,-79.887729
 355385,'1505','Rymal @ Upper James',43.202583,-79.893183
+355386,'1526','Rymal @ Garth',43.207124,-79.912082
 355387,'1525','Rymal @ Spadara',43.208288,-79.917178
 355388,'1524','Rymal @ Upper Paradise',43.209505,-79.922262
 355389,'1500','Rymal @ Upper Paradise',43.209469,-79.922509
@@ -2125,11 +2127,13 @@
 355413,'1221','Barton @ Fairfield',43.247468,-79.798796
 355415,'1701','Hamilton Go Ctr Platform 18',43.252494,-79.868582
 355416,'2303','Limeridge @ Britten Close',43.226117,-79.900862
+355418,'1711','Main @ Bowen',43.254544,-79.866439
 355419,'1265','John @ Jackson',43.253676,-79.867418
 355424,'9232','John @ Jackson',43.253676,-79.867418
 355427,'1266','John @ Wilson',43.258547,-79.865286
 355428,'1240','John @ Cannon',43.260356,-79.86448
 355429,'1240','John @ Robert',43.261833,-79.863836
+355430,'1241','John @ Barton',43.263024,-79.863328
 355431,'1903','James @ Jackson',43.254223,-79.870239
 355432,'1077','Hamilton Go Ctr Platform 17',43.252665,-79.869522
 355435,'2486','Paramount @ Hickory',43.202133,-79.803145
@@ -2356,6 +2360,7 @@
 355886,'5041','Stone Church @ Heritage Greene',43.192128,-79.812459
 355887,'2903','Stone Church @ Redhill Vly Pkwy',43.192739,-79.815736
 355888,'5166','Stone Church Opposite Heritage Greene',43.19203,-79.812348
+355889,'5166','Paramount @ Upper Mt Albion',43.191911,-79.809628
 355890,'1806','Burke @ Humphrey',43.338332,-79.881759
 355892,'2071','West 5th @ Fennell',43.239566,-79.882448
 355896,'2906','Stone Church @ Redhill Vly Pkwy',43.192577,-79.814413
@@ -2422,7 +2427,6 @@
 355972,'1372','Governor''s @ Dundas Vly School',43.25874,-79.976193
 355973,'2493','Greenhill @ Greenhill Ctr',43.209667,-79.786547
 355974,'1427','Garner @ Duff''s Corners',43.195028,-80.021909
-355975,'1420','Garner Opposite Duff''s Corners',43.195109,-80.021006
 355976,'2293','Upper James @ Alderlea',43.195689,-79.896486
 355977,'9205','Upper James @ Twenty',43.191534,-79.898181
 355978,'2293','Upper James @ Twenty',43.191534,-79.898181
@@ -2445,13 +2449,16 @@
 356002,'0','Cannon @ University Shuttle',43.251081,-79.830995
 356003,'0','Cannon @ Lime Rdg Shuttle',43.251431,-79.831526
 356004,'0','Lime Rdg Mall @ Ti-Cat Stop',43.214998,-79.863307
-356010,'1711','Main @ Catharine',43.254419,-79.865833
-356011,'1241','Barton @ John',43.263212,-79.862511
-356013,'1128','Delaware @ Gladstone',43.247382,-79.847285
-356015,'5166','Stone Church @ Upper Mt Albion',43.191885,-79.810963
-356016,'1526','Rymal @ Garth',43.207231,-79.912713
-356017,'1883','Horseshoe @ Flamborough Power Ctr',43.31802,-79.914336
-356018,'1888','Horseshoe @ Flamborough Power Ctr',43.31802,-79.914336
-356020,'0','Winona Peach Festival',43.208893,-79.646295
-356021,'0','Bayfront Pk',43.269295,-79.869873
-356024,'0','Pier Four Pk',43.273092,-79.866272
+356008,'2','Gray Opposite Cardinal Newman',43.221945,-79.744673
+356009,'0','Princeton Opposite Valecrest',43.227255,-79.821753
+356025,'4441','Mcclure @ Smartcentres Ancaster',43.197445,-80.017484
+356026,'4440','Mcclure @ Ancaster Xing',43.197103,-80.017603
+356027,'4439','Wilson @ Trinity Wilson Common',43.19729,-80.020176
+356028,'4442','Wilson @ Duff''s Corner Plz',43.197036,-80.02008
+356029,'1851','Clappison Opposite Horseshoe',43.319026,-79.913441
+356030,'5626','Violet @ Grandville',43.23335,-79.759227
+356031,'5627','@ 40 Grandville',43.232661,-79.759253
+356032,'5628','Grandville @ Delawana',43.231948,-79.759718
+356034,'4425','Rymal @ Fletcher''s Sq',43.176554,-79.791775
+356035,'2077','Upper Gage Opposite Crockett',43.235209,-79.835832
+356036,'2383','Centennial @ Delawana',43.231973,-79.76275

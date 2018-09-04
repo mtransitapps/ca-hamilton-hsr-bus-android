@@ -56,6 +56,8 @@
 4301,0,'Meadowlands',43
 4400,0,'Ancaster Business Pk',44
 4401,0,'Eastgate Sq',44
+5101,0,'Hamilton Go Ctr',51
+5100,0,'West Hamilton Loop',51
 5200,0,'Orchard @ Pleasant',52
 5201,0,'York @ Watson''s Ln Loop',52
 5501,0,'Eastgate Sq',55
@@ -66,8 +68,11 @@
 5800,0,'King @ Hwy 8',58
 9901,0,'Downtown',99
 9900,0,'Waterfront @ Pier 8',99
+10000101,0,'Rymal @ Upper James',100001
+10000100,0,'St Thomas More HS',100001
 10000200,0,'Tim Hortons Field',100002
-10000301,0,'Eastgate Sq Terminal',100003
-10000300,0,'Winona Peach Festival',100003
-10000401,0,'Downtown',100004
-10000400,0,'Waterfront',100004
+10000601,0,'Upper Gage & Lincoln Alexander South',100006
+10000800,0,'Cardinal Newman',100008
+10000801,0,'Mt Albion & Lawrence',100008
+10000901,0,'Rymal @ Upper Gage',100009
+10000900,0,'St Jean De Brebeuf Catholic Secondary School',100009
