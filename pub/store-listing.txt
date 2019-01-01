@@ -5,7 +5,7 @@ Hamilton HSR buses for MonTransit.
 Schedule. News. Alerts.
 ----------
 What's new in this version?:
-Schedule from September 2, 2018 to December 29, 2018.
+Schedule from September 2, 2018 to January 31, 2019.
 Tweets from @HSR and @HSRNow.
 ----------
 Full description:
