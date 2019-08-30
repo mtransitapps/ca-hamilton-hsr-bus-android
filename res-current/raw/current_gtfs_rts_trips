@@ -66,8 +66,8 @@
 5800,0,'King @ Hwy 8',58
 9901,0,'Downtown',99
 9900,0,'Waterfront @ Pier 8',99
-10000200,0,'Tim Hortons Field',100002
-10000301,0,'Eastgate Sq Terminal',100003
-10000300,0,'Winona Peach Festival',100003
-10000400,0,'Bayfront Pk',100004
-10000401,0,'Downtown',100004
+392400,0,'Tim Hortons Field',3924
+392601,0,'Eastgate Sq Terminal',3926
+392600,0,'Winona Peach Festival',3926
+392900,0,'Bayfront Pk',3929
+392901,0,'Downtown',3929
