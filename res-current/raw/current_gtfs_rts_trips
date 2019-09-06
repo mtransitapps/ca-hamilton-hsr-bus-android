@@ -55,7 +55,9 @@
 4300,0,'Highland @ Saltfleet HS',43
 4301,0,'Meadowlands',43
 4400,0,'Ancaster Business Pk',44
-4401,0,'Eastgate Sq',44
+4401,0,'Confederation Walmart',44
+5101,0,'Hamilton Go Ctr',51
+5100,0,'West Hamilton Loop',51
 5200,0,'Orchard @ Pleasant',52
 5201,0,'York @ Watson''s Ln Loop',52
 5501,0,'Eastgate Sq',55
@@ -66,8 +68,19 @@
 5800,0,'King @ Hwy 8',58
 9901,0,'Downtown',99
 9900,0,'Waterfront @ Pier 8',99
-392400,0,'Tim Hortons Field',3924
-392601,0,'Eastgate Sq Terminal',3926
-392600,0,'Winona Peach Festival',3926
-392900,0,'Bayfront Pk',3929
-392901,0,'Downtown',3929
+396600,0,'Cardinal Newman',3966
+396601,0,'Mt Albion & Lawrence',3966
+396701,0,'Upper Gage & Lincoln Alexander South',3967
+396801,0,'Rymal @ Upper Gage',3968
+396901,0,'Rymal @ Upper James',3969
+396900,0,'St Thomas More HS',3969
+397000,0,'Tim Hortons Field',3970
+397101,0,'Main @ MacNab',3971
+397400,0,'King & James',3974
+397401,0,'Rockton Fairgrounds',3974
+397501,0,'Ancaster Fairgrounds',3975
+397500,0,'Downtown',3975
+397600,0,'Binbrook',3976
+397601,0,'Eastgate Sq',3976
+397700,0,'Downtown',3977
+397701,0,'University Plz',3977
