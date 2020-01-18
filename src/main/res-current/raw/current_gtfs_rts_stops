@@ -1823,6 +1823,15 @@
 3064,'2135','Upper Wentworth @ Stone Church',43.206398,-79.86941
 3065,'2233','Upper Wentworth Opp Franklin',43.228672,-79.859757
 3066,'2242','Upper Wentworth Opp Vickers',43.229205,-79.859334
+3068,'2382','Van Wagners @ Adventure Vlg',43.252716,-79.760219
+3069,'2385','Van Wagners Opp Adventure',43.252864,-79.760253
+3070,'2382','Van Wagners Beach @ Barangas',43.255582,-79.761941
+3071,'2385','Van Wagners Opp Barangas',43.255451,-79.761975
+3072,'2384','Lakeland Loop',43.263984,-79.771326
+3073,'2385','Van Wagners Opp Hutchs',43.258782,-79.766
+3074,'2382','Van Wagners Beach @ Hutchs',43.258981,-79.765791
+3075,'2385','Van Wagners Beach Opp Lakeland',43.261665,-79.769198
+3076,'2382','Van Wagners Beach @ Lakeland',43.261714,-79.768989
 3078,'1458','Victoria @ Ferrie',43.266276,-79.850859
 3080,'1455','Wellington @ Burlington',43.270102,-79.852353
 3083,'1456','Wellington @ Macaulay',43.268574,-79.853002
@@ -2106,6 +2115,7 @@
 355508,'9211','Upper James North Of Linc',43.220277,-79.885114
 355509,'9213','Upper James @ Mohawk',43.228632,-79.881648
 355510,'9221','John @ Charlton',43.248796,-79.869215
+355513,'4456','Eastgate Terminal Platform 3',43.228712,-79.76553
 355514,'4410','Upper Centennial @ Highland',43.181233,-79.773255
 355516,'4416','Rymal Opp Walmart',43.174778,-79.783158
 355517,'4416','Rymal @ Whitedeer',43.175542,-79.786445
@@ -2190,7 +2200,7 @@
 355746,'2542','Barton @ Fruitland',43.222609,-79.700629
 355751,'2297','@ 1441 Upper James',43.208207,-79.890449
 355752,'2287','@ 1452 Upper James',43.208189,-79.890622
-355754,'5618','Walmart',43.242439,-79.755559
+355754,'5618','Centennial Walmart Platform 1',43.242439,-79.755559
 355760,'2962','Dundurn @ Charlton',43.254567,-79.891169
 355762,'1239','John @ King William',43.25655,-79.866166
 355763,'2946','John @ King William',43.25655,-79.866166
@@ -2292,6 +2302,8 @@
 355919,'2069','West 5th @ Brantdale',43.241625,-79.881581
 355921,'3396','West 5th @ Brantdale',43.241625,-79.881581
 355922,'3596','West 5th @ Brantdale',43.241625,-79.881581
+355923,'5623','Van Wagners @ Confederation Main Gt',43.250548,-79.759916
+355924,'5622','Van Wagners Beach Opp Confederation Main Gt',43.250942,-79.760275
 355925,'9223','John Opp Hamilton GO Ctr',43.252208,-79.86805
 355926,'2095','John Opp Hamilton GO Ctr',43.252208,-79.86805
 355927,'2093','John Opp Hamilton GO Ctr',43.252208,-79.86805
@@ -2353,7 +2365,7 @@
 355990,'2787','Rymal Opp Turner Pk',43.199017,-79.878813
 355999,'2346','Sanatorium Opp Brow Bldg',43.245218,-79.915687
 356000,'2217','Upper Sherman @ Dulgaren',43.198744,-79.861981
-356007,'5624','Walmart',43.242518,-79.755295
+356007,'5624','Centennial Walmart Platform 2',43.242518,-79.755295
 356008,'2','Gray Opp Cardinal Newman',43.221945,-79.744673
 356009,'0','Princeton Opp Valecrest',43.227255,-79.821753
 356010,'1711','Main @ Catharine',43.254419,-79.865833
@@ -2416,5 +2428,5 @@
 356095,'4433','Confederation GO @ Platform 4',43.24248,-79.75987
 356097,'1829','Dundas @ Burke',43.339887,-79.884869
 356098,'1136','King Opp Cameron',43.232079,-79.810367
-356099,'1295','Cannon @ Tim Hortons Field',43.250773,-79.830432
+356099,'1295','Cannon @ Tim Hortons Field',43.250767,-79.830373
 356100,'1273','Cannon Opp Tim Hortons Field',43.25063,-79.830437
