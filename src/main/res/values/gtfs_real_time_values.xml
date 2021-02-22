@@ -4,12 +4,12 @@
     <string name="gtfs_real_time_authority">org.mtransit.android.ca_hamilton_hsr_bus.gtfs.realtime</string>
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
     <bool name="gtfs_real_time_stop_id_is_stop_code">false</bool>
-    <string name="gtfs_real_time_agency_service_alerts_url">http://opendata.hamilton.ca/GTFS-RT/GTFS_ServiceAlerts.pb</string>
+    <string name="gtfs_real_time_agency_service_alerts_url">https://opendata.hamilton.ca/GTFS-RT/GTFS_ServiceAlerts.pb</string>
     <string name="gtfs_real_time_agency_id">HSR</string>
     <string name="gtfs_real_time_agency_bold_words">((about)? [\\d]+ minute[s]? late|a (slight )?delay|service delay|reduced number of cars|cancel[\\S]*)</string>
-    <string name="gtfs_real_time_agency_time_regex"></string>
-    <string name="gtfs_real_time_agency_time_hour_format"></string>
-    <string name="gtfs_real_time_agency_time_minute_format"></string>
-    <string name="gtfs_real_time_agency_time_ampm_format"></string>
+    <string name="gtfs_real_time_agency_time_regex" />
+    <string name="gtfs_real_time_agency_time_hour_format" />
+    <string name="gtfs_real_time_agency_time_minute_format" />
+    <string name="gtfs_real_time_agency_time_ampm_format" />
     <string name="gtfs_real_time_agency_agency_time_zone">@string/gtfs_rts_timezone</string>
 </resources>
