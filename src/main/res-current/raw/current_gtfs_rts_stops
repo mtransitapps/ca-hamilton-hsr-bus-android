@@ -1193,7 +1193,7 @@
 2369,'1046','Ottawa @ Maple',43.241217,-79.820165
 2370,'1037','Ottawa @ Maple',43.241045,-79.820434
 2371,'1192','Paradise @ Main',43.260755,-79.899657
-2373,'2906','Paramount @ Upper Mt Albion',43.191957,-79.810469
+2373,'2906','Paramount @ Upper Mt Albion',43.192035,-79.810139
 2374,'2459','Paramount @ Amberwood',43.202658,-79.799408
 2375,'2483','Paramount Opp Amberwood',43.202789,-79.799564
 2376,'2483','Paramount @ Apex',43.201436,-79.794508
@@ -1213,8 +1213,8 @@
 2392,'2462','Paramount @ Mud',43.195329,-79.796362
 2393,'2462','Paramount @ Pembroke',43.193622,-79.798289
 2394,'2484','Paramount Opp Pembroke',43.19385,-79.79715
-2395,'2906','Stone Church @ Heritage Greene',43.192128,-79.812459
-2396,'2126','Stone Church Opp Heritage Greene',43.19203,-79.812348
+2395,'2906','Stone Church @ Heritage Greene',43.192161,-79.812222
+2396,'2126','Stone Church Opp Heritage Greene',43.191969,-79.812348
 2397,'2173','Paramount @ Vly Pk Loop',43.194754,-79.796361
 2400,'2949','Pk @ Charlton',43.250746,-79.875194
 2402,'2436','Parkdale @ Barton',43.245123,-79.788429
@@ -1928,8 +1928,8 @@
 3184,'2459','Winterberry @ Old Mud',43.198276,-79.806428
 3185,'2456','Winterberry @ Mud',43.195688,-79.80642
 3186,'2467','Winterberry @ Mud',43.195688,-79.806593
-3187,'2456','Winterberry @ Paramount',43.192822,-79.806176
-3188,'2428','Winterberry @ Paramount',43.192544,-79.806334
+3187,'2456','Winterberry @ Paramount',43.192949,-79.806146
+3188,'2428','Winterberry @ Paramount',43.19263,-79.806328
 3189,'1326','@ Woodland Cemetery',43.286922,-79.879015
 3190,'2767','Woodward Opp Museum Of Steam',43.255739,-79.773329
 3191,'2683','Woodward @ Museum Of Steam',43.255834,-79.773035
@@ -2289,14 +2289,14 @@
 355879,'1884','Dundas @ Main',43.333255,-79.892938
 355880,'1871','Hollybush @ Dundas',43.319964,-79.908935
 355884,'1862','Spg Crk @ Blue Sky',43.345228,-79.879352
-355885,'4001','Winterberry @ Paramount',43.192822,-79.806176
-355886,'5041','Stone Church @ Heritage Greene',43.192128,-79.812459
+355885,'4001','Winterberry @ Paramount',43.192949,-79.806146
+355886,'5041','Stone Church @ Heritage Greene',43.192161,-79.812222
 355887,'2903','Stone Church @ Redhill Vly Pkwy',43.192739,-79.815736
-355888,'5166','Stone Church Opp Heritage Greene',43.19203,-79.812348
+355888,'5166','Stone Church Opp Heritage Greene',43.191969,-79.812348
 355890,'1806','Burke @ Humphrey',43.338332,-79.881759
 355892,'2071','West 5th @ Fennell',43.239566,-79.882448
-355896,'2906','Stone Church @ Redhill Vly Pkwy',43.192577,-79.814413
-355897,'5041','Stone Church @ Redhill Vly Pkwy',43.192577,-79.814413
+355896,'2906','Stone Church @ Redhill Vly Pkwy',43.192584,-79.814206
+355897,'5041','Stone Church @ Redhill Vly Pkwy',43.192584,-79.814206
 355898,'1881','Clappison @ Dundas',43.318173,-79.911672
 355899,'4422','Rymal @ Pritchard',43.185213,-79.822484
 355900,'4450','Rymal Opp Pritchard',43.185249,-79.822818
@@ -2380,8 +2380,8 @@
 356010,'1711','Main @ Catharine',43.254419,-79.865833
 356011,'1241','Barton @ John',43.263212,-79.862511
 356013,'1128','Delaware @ Gladstone',43.247382,-79.847285
-356014,'2126','Stone Church @ Upper Mt Albion',43.191885,-79.810963
-356015,'5166','Stone Church @ Upper Mt Albion',43.191885,-79.810963
+356014,'2126','Stone Church @ Upper Mt Albion',43.191816,-79.81084
+356015,'5166','Stone Church @ Upper Mt Albion',43.191816,-79.81084
 356016,'1526','Rymal @ Garth',43.207231,-79.912713
 356017,'1883','Horseshoe @ Flamborough Power Ctr',43.31802,-79.914336
 356018,'1888','Horseshoe @ Flamborough Power Ctr',43.31802,-79.914336
