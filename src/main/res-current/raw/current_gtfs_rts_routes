@@ -11,6 +11,7 @@
 11,'11','Parkdale','9168A1'
 12,'12','Wentworth','61A5D4'
 16,'16','Ancaster','A82958'
+18,'18','Waterdown','97947F'
 20,'20','A-Line Express','FF0000'
 21,'21','Upper Kenilworth','CD9A49'
 22,'22','Upper Ottawa','68B92E'
@@ -32,4 +33,5 @@
 56,'56','Centennial','BAB3D6'
 58,'58','Stoney Creek Local','B74F8F'
 99,'99','Waterfront Shuttle','436997'
+4530,'SHER','Sherwood Secondary Extra','00B300'
 4531,'TC','Tiger-Cats Express','F58B16'
