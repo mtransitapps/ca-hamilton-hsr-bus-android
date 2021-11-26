@@ -24,8 +24,6 @@
 1200,0,'Wentworth @ Burlington',12
 1600,0,'Garner @ Wilson',16
 1601,0,'Meadowlands',16
-1801,0,'CCW',18
-1800,0,'CW',18
 2000,0,'Airport',20
 2001,0,'Waterfront @ Pier 8',20
 2100,0,'Heritage Greene PC',21
@@ -70,3 +68,7 @@
 9900,0,'Waterfront @ Pier 8',99
 453001,0,'Upper Gage @ Linc South',4530
 453100,0,'Tim Hortons Field',4531
+461800,0,'Grey Cup Gold',4618
+461900,0,'Grey Cup Black',4619
+462000,0,'Grey Cup Red',4620
+462100,0,'Grey Cup Grn',4621
