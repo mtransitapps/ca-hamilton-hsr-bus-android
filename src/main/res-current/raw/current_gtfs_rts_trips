@@ -54,8 +54,6 @@
 4301,0,'Meadowlands',43
 4400,0,'Ancaster Business Pk',44
 4401,0,'Confederation GO Sta',44
-5101,0,'Hamilton GO Ctr',51
-5100,0,'West Hamilton Loop',51
 5200,0,'Orchard @ Pleasant',52
 5201,0,'York @ Watson''s Ln Loop',52
 5501,0,'Eastgate Sq',55
@@ -64,6 +62,11 @@
 5600,0,'Lakeland CC',56
 5801,0,'Eastgate Sq',58
 5800,0,'King @ Hwy 8',58
-453001,0,'Upper Gage @ Linc South',4530
-9910000,0,'Tim Hortons Field',99100
-9963000,0,'Tim Hortons Field',99630
+9901,0,'Downtown',99
+9900,0,'Waterfront @ Pier 8',99
+481300,0,'Bayfront Pk',4813
+481301,0,'Downtown',4813
+486301,0,'Eastgate Sq Term',4863
+486300,0,'Winona Peach Festival',4863
+9950000,0,'Tim Hortons Field',99500
+9973000,0,'Tim Hortons Field',99730
