@@ -53,7 +53,9 @@
 4300,0,'Highland @ Saltfleet S',43
 4301,0,'Meadowlands',43
 4400,0,'Ancaster Business Pk',44
-4401,0,'Confederation GO Sta',44
+4401,0,'Confederation Walmart',44
+5101,0,'Hamilton GO Ctr',51
+5100,0,'West Hamilton Loop',51
 5200,0,'Orchard @ Pleasant',52
 5201,0,'York @ Watson''s Ln Loop',52
 5501,0,'Eastgate Sq',55
@@ -64,9 +66,13 @@
 5800,0,'King @ Hwy 8',58
 9901,0,'Downtown',99
 9900,0,'Waterfront @ Pier 8',99
-481300,0,'Bayfront Pk',4813
-481301,0,'Downtown',4813
-486301,0,'Eastgate Sq Term',4863
-486300,0,'Winona Peach Festival',4863
-9950000,0,'Tim Hortons Field',99500
+484901,0,'Ancaster Fairgrounds',4849
+484900,0,'Meadowlands',4849
+485000,0,'Binbrook Fall Fair',4850
+485001,0,'Eastgate Sq / Rymal @ Dakota',4850
+485300,0,'King & James',4853
+485301,0,'Rockton Fairgrounds',4853
+9910000,0,'Tim Hortons Field',99100
+9940000,0,'Tim Hortons Field',99400
+9970000,0,'Tim Hortons Field',99700
 9973000,0,'Tim Hortons Field',99730
