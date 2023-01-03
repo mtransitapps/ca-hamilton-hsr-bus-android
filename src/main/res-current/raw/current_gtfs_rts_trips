@@ -14,8 +14,6 @@
 700,0,'Hillcrest Loop',7
 801,0,'Downtown',8
 800,0,'Strathcona Loop',8
-900,0,'Cemeteries',9
-901,0,'Downtown',9
 1000,0,'Eastgate Sq',10
 1001,0,'University Plz',10
 1101,0,'Burlington Term',11
@@ -24,27 +22,29 @@
 1200,0,'Wentworth @ Burlington',12
 1600,0,'Garner @ Wilson',16
 1601,0,'Meadowlands',16
+1800,0,'Aldershot GO',18
+1801,0,'Waterdown Walmart',18
 2000,0,'Airport',20
 2001,0,'Waterfront @ Pier 8',20
+2101,0,'Frank A Cooke Term',21
 2100,0,'Heritage Greene PC',21
-2101,0,'MacNab TT',21
-2201,0,'MacNab TT',22
+2201,0,'Frank A Cooke Term',22
 2200,0,'Upper Ottawa @ Rymal',22
-2301,0,'MacNab TT',23
+2301,0,'Frank A Cooke Term',23
 2300,0,'Rymal @ Upper Gage',23
-2401,0,'MacNab TT',24
+2401,0,'Frank A Cooke Term',24
 2400,0,'Upper Gage @ Rymal',24
+2501,0,'Frank A Cooke Term',25
 2500,0,'Lime Rdg Mall',25
-2501,0,'MacNab TT',25
+2601,0,'Frank A Cooke Term',26
 2600,0,'Lime Rdg Mall',26
-2601,0,'MacNab TT',26
-2701,0,'MacNab TT',27
+2701,0,'Frank A Cooke Term',27
 2700,0,'Mtn TC P&R',27
-3301,0,'MacNab TT',33
+3301,0,'Frank A Cooke Term',33
 3300,0,'Scenic Loop',33
 3401,0,'Downtown',34
 3400,0,'Glancaster Loop',34
-3501,0,'MacNab TT',35
+3501,0,'Frank A Cooke Term',35
 3500,0,'St Elizabeth Vlg',35
 4101,0,'Gage @ Ind',41
 4100,0,'Meadowlands',41
@@ -60,19 +60,5 @@
 5201,0,'York @ Watson''s Ln Loop',52
 5501,0,'Eastgate Sq',55
 5500,0,'Jones @ Hwy 8',55
-5601,0,'Eastgate Sq',56
-5600,0,'Lakeland CC',56
 5801,0,'Eastgate Sq',58
 5800,0,'King @ Hwy 8',58
-9901,0,'Downtown',99
-9900,0,'Waterfront @ Pier 8',99
-484901,0,'Ancaster Fairgrounds',4849
-484900,0,'Meadowlands',4849
-485000,0,'Binbrook Fall Fair',4850
-485001,0,'Eastgate Sq / Rymal @ Dakota',4850
-485300,0,'King & James',4853
-485301,0,'Rockton Fairgrounds',4853
-9910000,0,'Tim Hortons Field',99100
-9940000,0,'Tim Hortons Field',99400
-9970000,0,'Tim Hortons Field',99700
-9973000,0,'Tim Hortons Field',99730
