@@ -1,38 +1,38 @@
-5011,'1','King','0093DD'
-5012,'2','Barton','75C5F0'
-5013,'3','Cannon','7882B4'
-5014,'4','Bayfront','96AEBE'
-5015,'5','Delaware','78AAA0'
-5016,'6','Aberdeen','547F8B'
-5017,'7','Locke','3BB3C2'
-5018,'8','York','1373B3'
-5019,'9','Rock Gardens','90A5D1'
-5020,'10','B-Line Express','DA251D'
-5021,'11','Parkdale','9168A1'
-5022,'12','Wentworth','61A5D4'
-5023,'16','Ancaster','A82958'
-5024,'18','Waterdown Mountaineer','97947F'
-5025,'20','A-Line Express','FF0000'
-5026,'21','Upper Kenilworth','CD9A49'
-5027,'22','Upper Ottawa','68B92E'
-5028,'23','Upper Gage','449284'
-5029,'24','Upper Sherman','495F5F'
-5030,'25','Upper Wentworth','B6DDC7'
-5031,'26','Upper Wellington','42929D'
-5032,'27','Upper James','00923F'
-5033,'33','Sanatorium','EDB32A'
-5034,'34','Upper Paradise','39AD79'
-5035,'35','College','99AE6A'
-5036,'41','Mohawk','C0DCC0'
-5037,'42','Mohawk East','B3B300'
-5038,'43','Stone Church','B77F7D'
-5039,'44','Rymal','EE9A69'
-5040,'51','University','665F83'
-5041,'52','Dundas Local','C77456'
-5042,'55','Stoney Creek Central','B86779'
-5043,'56','Centennial','BAB3D6'
-5045,'99','Waterfront Shuttle','436997'
-5108,'BLACK','Grey Cup - Black','000000'
-5109,'GOLD','Grey Cup - Gold','FFD700'
-5110,'RED','Grey Cup - Red','FF0000'
-5112,'WHITE','Grey Cup - White','B3B300'
+5011,'1','King','0093DD',1626619,3
+5012,'2','Barton','75C5F0',1626620,3
+5013,'3','Cannon','7882B4',1626621,3
+5014,'4','Bayfront','96AEBE',1626622,3
+5015,'5','Delaware','78AAA0',1626623,3
+5016,'6','Aberdeen','547F8B',1626624,3
+5017,'7','Locke','3BB3C2',1626625,3
+5018,'8','York','1373B3',1626626,3
+5019,'9','Rock Gardens','90A5D1',1626627,3
+5020,'10','B-Line Express','DA251D',1626649,3
+5021,'11','Parkdale','9168A1',1626650,3
+5022,'12','Wentworth','61A5D4',1626651,3
+5023,'16','Ancaster','A82958',1626652,3
+5024,'18','Waterdown Mountaineer','97947F',1626653,3
+5025,'20','A-Line Express','FF0000',1626654,3
+5026,'21','Upper Kenilworth','CD9A49',1626655,3
+5027,'22','Upper Ottawa','68B92E',1626656,3
+5028,'23','Upper Gage','449284',1626657,3
+5029,'24','Upper Sherman','495F5F',1626658,3
+5030,'25','Upper Wentworth','B6DDC7',1626680,3
+5031,'26','Upper Wellington','42929D',1626681,3
+5032,'27','Upper James','00923F',1626682,3
+5033,'33','Sanatorium','EDB32A',1626683,3
+5034,'34','Upper Paradise','39AD79',1626684,3
+5035,'35','College','99AE6A',1626685,3
+5036,'41','Mohawk','C0DCC0',1626686,3
+5037,'42','Mohawk East','B3B300',1626687,3
+5038,'43','Stone Church','B77F7D',1626688,3
+5039,'44','Rymal','EE9A69',1626689,3
+5040,'51','University','665F83',1626711,3
+5041,'52','Dundas Local','C77456',1626712,3
+5042,'55','Stoney Creek Central','B86779',1626713,3
+5043,'56','Centennial','BAB3D6',1626714,3
+5045,'99','Waterfront Shuttle','436997',1626716,3
+5108,'BLACK','Grey Cup - Black','000000',1627556,3
+5109,'GOLD','Grey Cup - Gold','FFD700',1627557,3
+5110,'RED','Grey Cup - Red','FF0000',1627579,3
+5112,'WHITE','Grey Cup - White','B3B300',1627581,3
