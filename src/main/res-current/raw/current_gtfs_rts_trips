@@ -1,72 +1,62 @@
-501100,0,'Eastgate Sq',5011
-501101,0,'Hamilton GO Ctr',5011
-501200,0,'Bell Mnr Loop',5012
-501201,0,'Hamilton GO Ctr',5012
-501301,0,'Hamilton GO Ctr',5013
-501300,0,'Reid @ Dunsmure',5013
-501401,0,'Downtown (James @ Main)',5014
-501400,0,'Mt Albion Loop',5014
-501500,0,'Head St',5015
-501501,0,'King @ Hwy 8',5015
-501601,0,'Downtown',5016
-501600,0,'Princess Pt Loop',5016
-501701,0,'Downtown',5017
-501700,0,'Hillcrest Loop',5017
-501801,0,'Downtown',5018
-501800,0,'Strathcona Loop',5018
-501901,0,'Downtown (James @ Main)',5019
-501900,0,'Holy Sepulchre/Woodland Cemeteries',5019
-502000,0,'Eastgate Sq',5020
-502001,0,'University Plz',5020
-502101,0,'Burlington Term',5021
-502100,0,'Vly Pk',5021
-502201,0,'Victoria @ King',5022
-502200,0,'Wentworth @ Burton',5022
-502300,0,'Garner @ Wilson',5023
-502301,0,'Meadowlands Term',5023
-502400,0,'Aldershot GO Sta',5024
-502401,0,'Waterdown Walmart',5024
-502500,0,'Airport',5025
-502501,0,'Discovery Dr @ Pier 8',5025
-502601,0,'Frank A Cooke Term',5026
-502600,0,'Heritage Greene Term',5026
-502701,0,'Frank A Cooke Term',5027
-502700,0,'Upper Ottawa @ Rymal',5027
-502801,0,'Frank A Cooke Term',5028
-502800,0,'Upper Gage @ Rymal',5028
-502901,0,'Frank A Cooke Term',5029
-502900,0,'Upper Gage @ Rymal',5029
-503001,0,'Frank A Cooke Term',5030
-503000,0,'Lime Rdg Mall',5030
-503101,0,'Frank A Cooke Term',5031
-503100,0,'Lime Rdg Mall',5031
-503201,0,'Frank A Cooke Term',5032
-503200,0,'Mtn TC',5032
-503301,0,'Frank A Cooke Term',5033
-503300,0,'Mohawk & Scenic Loop',5033
-503401,0,'Downtown (Main @ MacNab)',5034
-503400,0,'Glancaster Loop',5034
-503501,0,'Frank A Cooke Term',5035
-503500,0,'St Elizabeth Vlg',5035
-503601,0,'Ind Dr',5036
-503600,0,'Meadowlands Term',5036
-503701,0,'Lime Rdg Mall',5037
-503700,0,'Mohawk 4 Ice Ctr',5037
-503800,0,'Highland @ Saltfleet S',5038
-503801,0,'Meadowlands',5038
-503900,0,'Ancaster Business Pk',5039
-503901,0,'Confederation Walmart',5039
-504001,0,'Hamilton GO Ctr',5040
-504000,0,'West Hamilton Loop',5040
-504100,0,'Orchard @ Pleasant',5041
-504101,0,'York @ Watsons Loop',5041
-504201,0,'Eastgate Sq',5042
-504200,0,'Winona Xing',5042
-504301,0,'Eastgate Sq',5043
-504300,0,'Lakeland Loop',5043
-504500,0,'Bayfront Pk',5045
-504501,0,'Downtown (King & MacNab)',5045
-510800,0,'Grey Cup Black',5108
-510900,0,'Grey Cup Gold',5109
-511000,0,'Grey Cup Red',5110
-511200,0,'Grey Cup White',5112
+506200,0,'Eastgate Sq',5062
+506201,0,'Hamilton GO Ctr',5062
+506300,0,'Bell Mnr Loop',5063
+506301,0,'Hamilton GO Ctr',5063
+506401,0,'Hamilton GO Ctr',5064
+506400,0,'Reid @ Dunsmure',5064
+506501,0,'Downtown (James @ Main)',5065
+506500,0,'Mt Albion Loop',5065
+506600,0,'Head St',5066
+506601,0,'King @ Hwy 8',5066
+506701,0,'Downtown',5067
+506700,0,'Princess Pt Loop',5067
+506801,0,'Downtown',5068
+506800,0,'Hillcrest Loop',5068
+506901,0,'Downtown',5069
+506900,0,'Strathcona Loop',5069
+507100,0,'Eastgate Sq',5071
+507101,0,'University Plz',5071
+507201,0,'Burlington Term',5072
+507200,0,'Vly Pk',5072
+507301,0,'Victoria @ King',5073
+507300,0,'Wentworth @ Burton',5073
+507400,0,'Garner @ Wilson',5074
+507401,0,'Meadowlands Term',5074
+507500,0,'Aldershot GO Sta',5075
+507501,0,'Waterdown Walmart',5075
+507600,0,'Airport',5076
+507601,0,'Discovery Dr @ Pier 8',5076
+507701,0,'Frank A Cooke Term',5077
+507700,0,'Heritage Greene Term',5077
+507801,0,'Frank A Cooke Term',5078
+507800,0,'Upper Ottawa @ Rymal',5078
+507901,0,'Frank A Cooke Term',5079
+507900,0,'Upper Gage @ Rymal',5079
+508001,0,'Frank A Cooke Term',5080
+508000,0,'Upper Gage @ Rymal',5080
+508101,0,'Frank A Cooke Term',5081
+508100,0,'Lime Rdg Mall',5081
+508201,0,'Frank A Cooke Term',5082
+508200,0,'Lime Rdg Mall',5082
+508301,0,'Frank A Cooke Term',5083
+508300,0,'Mtn TC',5083
+508401,0,'Frank A Cooke Term',5084
+508400,0,'Mohawk & Scenic Loop',5084
+508501,0,'Downtown (Main @ MacNab)',5085
+508500,0,'Glancaster Loop',5085
+508601,0,'Frank A Cooke Term',5086
+508600,0,'St Elizabeth Vlg',5086
+508701,0,'Ind Dr',5087
+508700,0,'Meadowlands Term',5087
+508801,0,'Lime Rdg Mall',5088
+508800,0,'Mohawk 4 Ice Ctr',5088
+508900,0,'Highland @ Saltfleet S',5089
+508901,0,'Meadowlands',5089
+509000,0,'Ancaster Business Pk',5090
+509001,0,'Confederation Walmart',5090
+509101,0,'Hamilton GO Ctr',5091
+509100,0,'West Hamilton Loop',5091
+509200,0,'Orchard @ Pleasant',5092
+509201,0,'York @ Watsons Loop',5092
+509301,0,'Eastgate Sq',5093
+509300,0,'Winona Xing',5093
