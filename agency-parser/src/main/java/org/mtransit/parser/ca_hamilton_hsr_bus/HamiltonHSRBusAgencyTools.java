@@ -18,6 +18,7 @@ import java.util.Locale;
 import java.util.regex.Pattern;
 
 // https://open.hamilton.ca/documents/6eeccf172c824c2db0484aea54ed7fe4/about
+// OLD: https://googlehsrdocs.hamilton.ca
 public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
