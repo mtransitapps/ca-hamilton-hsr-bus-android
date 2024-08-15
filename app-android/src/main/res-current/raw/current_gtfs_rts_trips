@@ -1,13 +1,13 @@
 510600,0,'Eastgate Sq',5106
-510601,0,'Hamilton GO Ctr',5106
+510601,0,'University Plz',5106
 510700,0,'Bell Mnr Loop',5107
 510701,0,'Hamilton GO Ctr',5107
 510801,0,'Hamilton GO Ctr',5108
 510800,0,'Reid @ Dunsmure',5108
-510901,0,'4 - Downtown (James @ Main)',5109
-510900,0,'4 - Mt Albion Loop',5109
-511000,0,'5 - Head St',5110
-511001,0,'5 - King @ Hwy 8',5110
+510901,0,'Downtown (James @ Main)',5109
+510900,0,'Mt Albion Loop',5109
+511000,0,'Head St',5110
+511001,0,'King @ Hwy 8 / Mt Albion Loop',5110
 511101,0,'Downtown',5111
 511100,0,'Princess Pt Loop',5111
 511201,0,'Downtown',5112
@@ -22,8 +22,8 @@
 511600,0,'Vly Pk Loop',5116
 511701,0,'Victoria @ King',5117
 511700,0,'Wentworth @ Burton',5117
-511800,0,'16 - Garner @ Wilson',5118
-511801,0,'16 - Meadowlands',5118
+511800,0,'Garner @ Wilson',5118
+511801,0,'Meadowlands',5118
 511900,0,'Aldershot GO',5119
 511901,0,'Waterdown Walmart',5119
 512000,0,'Airport',5120
@@ -44,12 +44,12 @@
 512700,0,'Mtn TC',5127
 512801,0,'Frank A Cooke Term',5128
 512800,0,'Scenic Loop',5128
-512901,0,'34 - Downtown (Main @ MacNab)',5129
-512900,0,'34 - Glancaster Loop',5129
-513001,0,'- Frank A Cooke Term',5130
-513000,0,'- St Elizabeth Vlg',5130
+512901,0,'Downtown (Main @ MacNab)',5129
+512900,0,'Glancaster Loop / Upper Horning Loop',5129
+513001,0,'Frank A Cooke Term',5130
+513000,0,'St Elizabeth Vlg',5130
+513101,0,'Ind Dr',5131
 513100,0,'Meadowlands',5131
-513101,0,'Mohawk @ Upper James Only',5131
 513201,0,'Lime Rdg Mall',5132
 513200,0,'Mohawk 4 Ice Ctr',5132
 513300,0,'Highland @ Saltfleet S',5133
@@ -64,8 +64,8 @@
 513800,0,'Lakeland Loop',5138
 513900,0,'Bayfront Pk',5139
 513901,0,'Downtown (King @ MacNab)',5139
-517901,0,'55 - Eastgate Sq',5179
-517900,0,'55 - Winona Xing',5179
+517901,0,'Eastgate Sq',5179
+517900,0,'Winona Xing',5179
 525000,0,'Tim Hortons Field',5250
 525100,0,'Tim Hortons Field',5251
 525200,0,'Bayfront Pk',5252
