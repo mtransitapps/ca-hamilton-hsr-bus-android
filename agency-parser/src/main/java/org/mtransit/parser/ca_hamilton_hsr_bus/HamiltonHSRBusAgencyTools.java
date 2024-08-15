@@ -164,6 +164,8 @@ public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 		return null;
 	}
 
+	private static final Pattern STARTS_WITH_RSN_DASH_ = Pattern.compile("(^\\d+([a-z])? (- )?)", Pattern.CASE_INSENSITIVE);
+
 	private static final Pattern FIX_BURLINGTON_ = CleanUtils.cleanWords("burlinton");
 	private static final String FIX_BURLINGTON_REPLACEMENT = CleanUtils.cleanWordsReplacement("Burlington");
 
@@ -187,6 +189,7 @@ public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 	public String cleanTripHeadsign(@NotNull String tripHeadsign) {
 		tripHeadsign = CleanUtils.toLowerCaseUpperCaseWords(Locale.ENGLISH, tripHeadsign, getIgnoredWords());
 		tripHeadsign = CleanUtils.keepToAndRemoveVia(tripHeadsign);
+		tripHeadsign = STARTS_WITH_RSN_DASH_.matcher(tripHeadsign).replaceAll(EMPTY);
 		tripHeadsign = FIX_BURLINGTON_.matcher(tripHeadsign).replaceAll(FIX_BURLINGTON_REPLACEMENT);
 		tripHeadsign = HAMILTON_AIRPORT.matcher(tripHeadsign).replaceAll(HAMILTON_AIRPORT_REPLACEMENT);
 		tripHeadsign = HAMILTON_WATERFRONT.matcher(tripHeadsign).replaceAll(HAMILTON_WATERFRONT_REPLACEMENT);
@@ -224,7 +227,7 @@ public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 	public int getStopId(@NotNull GStop gStop) {
 		//noinspection deprecation
 		String stopId = gStop.getStopId();
-		if (stopId.length() > 0) {
+		if (!stopId.isEmpty()) {
 			if (CharUtils.isDigitsOnly(stopId)) {
 				return Integer.parseInt(stopId); // used by GTFS-RT
 			}
