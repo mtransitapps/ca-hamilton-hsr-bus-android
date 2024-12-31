@@ -1,39 +1,31 @@
-5215,'1','King','0093DD',1628545,3
-5216,'2','Barton','75C5F0',1628546,3
-5217,'3','Cannon','7882B4',1628547,3
-5218,'4','Bayfront','96AEBE',1628548,3
-5219,'5','Delaware','78AAA0',1628549,3
-5220,'6','Aberdeen','547F8B',1628571,3
-5221,'7','Locke','3BB3C2',1628572,3
-5222,'8','York','1373B3',1628573,3
-5223,'9','Rock Gardens','90A5D1',1628574,3
-5224,'10','B-Line Express','DA251D',1628575,3
-5225,'11','Parkdale','9168A1',1628576,3
-5226,'12','Wentworth','61A5D4',1628577,3
-5227,'16','Ancaster','A82958',1628578,3
-5228,'18','Waterdown Mountaineer','97947F',1628579,3
-5229,'20','A-Line Express','FF0000',1628580,3
-5230,'21','Upper Kenilworth','CD9A49',1628602,3
-5231,'22','Upper Ottawa','68B92E',1628603,3
-5232,'23','Upper Gage','449284',1628604,3
-5233,'24','Upper Sherman','495F5F',1628605,3
-5234,'25','Upper Wentworth','B6DDC7',1628606,3
-5235,'26','Upper Wellington','42929D',1628607,3
-5236,'27','Upper James','00923F',1628608,3
-5237,'33','Sanatorium','EDB32A',1628609,3
-5238,'34','Upper Paradise','39AD79',1628610,3
-5239,'35','College','99AE6A',1628611,3
-5240,'41','Mohawk','C0DCC0',1628633,3
-5241,'42','Mohawk East','B3B300',1628634,3
-5242,'43','Stone Church','B77F7D',1628635,3
-5243,'44','Rymal','EE9A69',1628636,3
-5244,'51','University','665F83',1628637,3
-5245,'52','Dundas Local','C77456',1628638,3
-5246,'55','Stoney Creek Central','B86779',1628639,3
-5247,'56','Centennial','BAB3D6',1628640,3
-5248,'99','Waterfront Shuttle','436997',1628641,3
-5254,'ANCFAIR','Ancaster Fair Shuttle','B3B300',1628668,3
-5255,'ROCKTON','Rockton Worlds Fair Shuttle','B3B300',1628669,3
-5256,'TC700','Tiger-Cats Express - 700 Gt','F58B16',1628670,3
-5257,'TC230','Tiger-Cats Express - 230 Gt','F58B16',1628671,3
-5258,'TC400','Tiger-Cats Express - 400 Gt','F58B16',1628672,3
+5259,'1','King','0093DD',1628673,3
+5260,'2','Barton','75C5F0',1628695,3
+5261,'3','Cannon','7882B4',1628696,3
+5262,'4','Bayfront','96AEBE',1628697,3
+5263,'5','Delaware','78AAA0',1628698,3
+5264,'6','Aberdeen','547F8B',1628699,3
+5265,'7','Locke','3BB3C2',1628700,3
+5266,'8','York','1373B3',1628701,3
+5268,'10','B-Line Express','DA251D',1628703,3
+5269,'11','Parkdale','9168A1',1628704,3
+5271,'16','Ancaster','A82958',1628727,3
+5272,'18','Waterdown Mountaineer','97947F',1628728,3
+5273,'20','A-Line Express','FF0000',1628729,3
+5274,'21','Upper Kenilworth','CD9A49',1628730,3
+5275,'22','Upper Ottawa','68B92E',1628731,3
+5276,'23','Upper Gage','449284',1628732,3
+5277,'24','Upper Sherman','495F5F',1628733,3
+5278,'25','Upper Wentworth','B6DDC7',1628734,3
+5279,'26','Upper Wellington','42929D',1628735,3
+5280,'27','Upper James','00923F',1628757,3
+5281,'33','Sanatorium','EDB32A',1628758,3
+5282,'34','Upper Paradise','39AD79',1628759,3
+5283,'35','College','99AE6A',1628760,3
+5284,'41','Mohawk','C0DCC0',1628761,3
+5285,'42','Mohawk East','B3B300',1628762,3
+5286,'43','Stone Church','B77F7D',1628763,3
+5287,'44','Rymal','EE9A69',1628764,3
+5288,'51','University','665F83',1628765,3
+5289,'52','Dundas Local','C77456',1628766,3
+5290,'55','Stoney Creek Central','B86779',1628788,3
+5299,'12','Wentworth','61A5D4',1628797,3
