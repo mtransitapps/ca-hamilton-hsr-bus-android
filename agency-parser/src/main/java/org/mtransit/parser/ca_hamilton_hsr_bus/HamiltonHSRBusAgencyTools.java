@@ -32,6 +32,7 @@ public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 		return "HSR";
 	}
 
+	@Override
 	public boolean defaultExcludeEnabled() {
 		return true;
 	}
