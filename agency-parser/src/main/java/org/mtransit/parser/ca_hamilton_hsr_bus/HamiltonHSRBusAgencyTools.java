@@ -4,13 +4,10 @@ import static org.mtransit.commons.StringUtils.EMPTY;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
-import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.commons.StringUtils;
 import org.mtransit.parser.DefaultAgencyTools;
-import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
-import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
 
 import java.util.List;
@@ -32,11 +29,6 @@ public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 		return "HSR";
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@Nullable
 	@Override
 	public List<Locale> getSupportedLanguages() {
@@ -47,6 +39,11 @@ public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public Integer getAgencyRouteType() {
 		return MAgency.ROUTE_TYPE_BUS;
+	}
+
+	@Override
+	public boolean cleanMergedServiceIds() {
+		return true;
 	}
 
 	@Override
@@ -204,7 +201,7 @@ public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.fixMcXCase(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private String[] getIgnoredWords() {
@@ -222,22 +219,11 @@ public class HamiltonHSRBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.fixMcXCase(gStopName);
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 
 	@Override
-	public int getStopId(@NotNull GStop gStop) {
-		//noinspection deprecation
-		String stopId = gStop.getStopId();
-		if (!stopId.isEmpty()) {
-			if (CharUtils.isDigitsOnly(stopId)) {
-				return Integer.parseInt(stopId); // used by GTFS-RT
-			}
-			stopId = CleanUtils.cleanMergedID(stopId);
-			if (CharUtils.isDigitsOnly(stopId)) {
-				return Integer.parseInt(stopId); // used by GTFS-RT
-			}
-		}
-		throw new MTLog.Fatal("Unexpected stop ID for %s!", gStop);
+	public boolean cleanMergedStopIds() {
+		return true;
 	}
 }
