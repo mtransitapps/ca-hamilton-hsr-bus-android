@@ -1,2 +1,3 @@
 ignore_patterns:
   - 'app-android/src/main/res-*/raw/**'
+  - '**/*.png'
