@@ -1,0 +1,113 @@
+{
+  "default_route_id_enabled": true,
+  "use_route_short_name_for_route_id": false,
+  "route_id_previous_char_configs": [
+    {
+      "char": "TC",
+      "route_id_part": 99000
+    }
+  ],
+  "route_short_name_to_route_id_configs": [
+    {
+      "route_short_name": "ROCKTON",
+      "route_id": 4853
+    },
+    {
+      "route_short_name": "TC",
+      "route_id": 4531
+    },
+    {
+      "route_short_name": "SHER",
+      "route_id": 4530
+    },
+    {
+      "route_short_name": "BLACK",
+      "route_id": 4619
+    },
+    {
+      "route_short_name": "GOLD",
+      "route_id": 4618
+    },
+    {
+      "route_short_name": "GREEN",
+      "route_id": 4621
+    },
+    {
+      "route_short_name": "RED",
+      "route_id": 4620
+    },
+    {
+      "route_short_name": "CAN",
+      "route_id": 4813
+    },
+    {
+      "route_short_name": "PEACH",
+      "route_id": 4863
+    },
+    {
+      "route_short_name": "myRide",
+      "route_id": 4620
+    },
+    {
+      "route_short_name": "BINFAIR",
+      "route_id": 4850
+    },
+    {
+      "route_short_name": "ANCFAIR",
+      "route_id": 4849
+    }
+  ],
+  "route_short_name_cleaners": [
+    {
+      "regex": "(^0*)"
+    },
+    {
+      "regex": "(-+)"
+    }
+  ],
+  "default_route_long_name_enabled": true,
+  "direction_finder_enabled": true,
+  "trip_headsign_remove_via": true,
+  "trip_headsign_cleaners": [
+    {
+      "regex": "(^\\d+([a-z])? (- )?)",
+      "ignore_case": true
+    },
+    {
+      "regex": "burlinton",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Burlington"
+    },
+    {
+      "regex": "hamilton airport",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Airport"
+    },
+    {
+      "regex": "hamilton waterfront",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "Waterfront"
+    },
+    {
+      "regex": "power (centre|center)",
+      "ignore_case": true,
+      "is_word": true,
+      "replacement": "PC"
+    },
+    {
+      "regex": "(^(aldershot go - ))",
+      "ignore_case": true
+    }
+  ],
+  "stop_id_clean_merged": true,
+  "stop_name_cleaners": [
+    {
+      "regex": "((\\s+)(opposite|opp)(\\s+))",
+      "ignore_case": true,
+      "replacement": "$2/$4"
+    }
+  ]
+}
