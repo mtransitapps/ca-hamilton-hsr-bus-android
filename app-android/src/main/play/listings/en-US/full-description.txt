@@ -11,7 +11,7 @@ This application only has a temporary icon: download the MonTransit app (free) i
 You can install this application on the SD card but it is not recommended.
 
 The information comes from the GTFS file provided by City of Hamilton and Hamilton Street Railway.
-https://www.hamilton.ca/city-initiatives/strategies-actions/open-data-program
+https://open.hamilton.ca/documents/6eeccf172c824c2db0484aea54ed7fe4/about
 
 This application is free and open-source:
 https://github.com/mtransitapps/ca-hamilton-hsr-bus-android
