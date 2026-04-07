@@ -4,7 +4,7 @@
   "route_id_previous_char_configs": [
     {
       "char": "TC",
-      "route_id_part": 99000
+      "id_part": 99000
     }
   ],
   "route_short_name_to_route_id_configs": [
